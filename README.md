@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/Torilen/TER-Sentiment-Analysis/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Torilen/TER Sentiment Analysis" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Torilen/TER-Sentiment-Analysis" />
   </a>
 </p>
 
