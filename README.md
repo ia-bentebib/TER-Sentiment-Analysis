@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to TER Sentiment Analysis 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -14,31 +12,30 @@
   </a>
 </p>
 
-> This repository is knowledge base which will be usefull for our team in order to answer to the sentiment analysis problem in context of french language, forum flow discussion 
+> This repository is a compilation of our work on the Sentiment Analysis TER (Travaux Encadrés de Recherche) at University of Nantes and directed by Nicolas HERNANDEZ. You can see all the references we founded, all the codes we developed and all the links which was useful during the work 
 
 ### 🏠 [Homepage](https://github.com/Torilen/TER-Sentiment-Analysis)
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- python >=3.6
 
 ## Install
 
 ```sh
-npm install
+
 ```
 
 ## Usage
 
 ```sh
-npm run start
+
 ```
 
 ## Run tests
 
 ```sh
-npm run test
+
 ```
 
 ## Author
@@ -47,14 +44,12 @@ npm run test
 
 * GitHub: [@Torilen](https://github.com/Torilen)
 * LinkedIn: [@aniss-bentebib-a449a8155](https://linkedin.com/in/aniss-bentebib-a449a8155)
+* LinkedIn: [@amine-boulahmel-88743a113](https://linkedin.com/in/amine-boulahmel-88743a113)
+* LinkedIn: [@harry-jandu](https://linkedin.com/in/harry-jandu)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+Contributions, issues and feature requests are welcome!
 
 ## 📝 License
 
@@ -62,4 +57,4 @@ Copyright © 2020 [Aniss BENTEBIB , Amine BOULAHMEL, Harry JANDU](https://github
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This readme was created with ❤️ and drop of sweat
