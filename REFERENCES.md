@@ -16,30 +16,9 @@
 ## :link: [Useful Links](https://github.com/Torilen/TER-Sentiment-Analysis/blob/master/USEFULLINKS.md)
 ## :triangular_flag_on_post: [References](https://github.com/Torilen/TER-Sentiment-Analysis/blob/master/REFERENCES.md)
 
+### How to add references ?
 
-<table>
-  <tr>
-    <td>ACL Anthology</td>
-    <td>https://www.aclweb.org/anthology/</td>
-  </tr>
-  <tr>
-    <td>ACL Anthology (Old)</td>
-    <td>http://aclasb.dfki.de/#tpc~%7Csentiment%20analysis*doc~L14-1702*</td>
-  </tr>
-  <tr>
-    <td>Annual Meeting ACL (Many recent papers)</td>
-    <td>https://www.aclweb.org/anthology/events/acl-2019/#p19-1</td>
-  </tr>
-  <tr>
-    <td>Task challenge french DEFT</td>
-    <td>https://deft.limsi.fr/2015/descriptionTaches.fr.php?lang=fr</td>
-  </tr>
-  <tr>
-    <td>SemEVAL 2019 (Task trends)</td>
-    <td>http://alt.qcri.org/semeval2019/index.php?id=papers</td>
-  </tr>
-  <tr>
-    <td>ATALA Conf TALN/RECITAL</td>
-    <td>https://www.atala.org/conf%C3%A9rence-talnrecital/actes</td>
-  </tr>
-</table>
+```markdown
+### Category name
+* [Title - Authors - Year](Link to pdf)
+```
