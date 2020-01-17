@@ -22,3 +22,7 @@
 ### Category name
 * [Title - Authors - Year](Link to pdf)
 ```
+
+### Sentiment Analysis
+
+* [Deep Learning for Sentiment Analysis: A Survey - Lei Zhang, Shuai Wang, Bing Liu - 2018](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf)
