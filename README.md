@@ -15,7 +15,7 @@
 > This repository is a compilation of our work on the Sentiment Analysis TER (Travaux Encadrés de Recherche) at University of Nantes and directed by Nicolas HERNANDEZ. You can see all the references we founded, all the codes we developed and all the links which was useful during the work 
 
 ## 🏠 [Homepage](https://github.com/Torilen/TER-Sentiment-Analysis)
-## :link: [Useful Links](https://github.com/Torilen/TER-Sentiment-Analysis)
+## :link: [Useful Links](https://github.com/Torilen/TER-Sentiment-Analysis/USEFULLINKS.md)
 ## :triangular_flag_on_post: [References](https://github.com/Torilen/TER-Sentiment-Analysis)
 
 ## Prerequisites
