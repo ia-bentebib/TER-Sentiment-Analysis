@@ -42,9 +42,4 @@
     <td>ATALA Conf TALN/RECITAL</td>
     <td>https://www.atala.org/conf%C3%A9rence-talnrecital/actes</td>
   </tr>
-  <tr>
-    <td>méthodes
-et technologies : Application à l’analyse de sentiments</td>
-    <td>https://tel.archives-ouvertes.fr/tel-00453642/document</td>
-  </tr>
 </table>
