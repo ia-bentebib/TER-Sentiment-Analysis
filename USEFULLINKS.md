@@ -42,4 +42,8 @@
     <td>ATALA Conf TALN/RECITAL</td>
     <td>https://www.atala.org/conf%C3%A9rence-talnrecital/actes</td>
   </tr>
+  <tr>
+    <td>HAL Archives-ouvertes</td>
+    <td>https://hal.archives-ouvertes.fr/search/index/?qa%5Btext%5D%5B%5D=analyse+des+sentiments&qa%5Btext%5D%5B%5D=&submit_advanced=Rechercher&docType_s=ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR+OR+LECTURE&rows=30</td>
+  </tr>
 </table>
