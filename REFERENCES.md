@@ -25,6 +25,7 @@
 
 ### Sentiment Analysis
 
+* [A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction - Heng Yang, Biqing Zeng, JianHao Yang, Youwei Song, Ruyang Xu - 2019](https://arxiv.org/pdf/1912.07976v2.pdf)
 * [An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis - Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier - 2019](https://www.aclweb.org/anthology/P19-1048.pdf)
 * [Deep Learning for Sentiment Analysis: A Survey - Lei Zhang, Shuai Wang, Bing Liu - 2018](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf)
 * [Transformer les big social data en prévisions - méthodes
