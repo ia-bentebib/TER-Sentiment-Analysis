@@ -20,10 +20,11 @@
 
 ```markdown
 ### Category name
-* [Title - Authors - Year](Link to pdf)
+* Sentiment Analysis Articles: [Title - Authors - Year](Link to pdf)
+* Aspect-based Corpus:         [Title - Authors - Year](Link to pdf) { Link to gitHub } 
 ```
 
-### Sentiment Analysis
+### Sentiment Analysis Articles
 
 * [A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction - Heng Yang, Biqing Zeng, JianHao Yang, Youwei Song, Ruyang Xu - 2019](https://arxiv.org/pdf/1912.07976v2.pdf)
 * [An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis - Ruidan He, Wee Sun Lee, Hwee Tou Ng, Daniel Dahlmeier - 2019](https://www.aclweb.org/anthology/P19-1048.pdf)
@@ -33,6 +34,5 @@ et technologies : Application à l’analyse de sentiments - Imane El Alaoui - 2
 * [Analyse de sentiments à base d’aspects par combinaison
 de réseaux profonds : application à des avis en Français - Nihel Kooli, Erwan Pigneul - 2018](https://hal.archives-ouvertes.fr/hal-01960082/document)
 
-### Aspect-base Corpus
-* [Title - Authors - Year](Link to pdf) { Link to gitHub } 
+### Aspect-based Corpus
 * [CANEPHORE : un corpus français pour la fouille d’opinion ciblée - Joseph Lark, Emmanuel Morin, Sebastian Peña Saldarriaga - 2015](https://www.researchgate.net/publication/279830360_CANEPHORE_a_French_corpus_for_aspect-based_sentiment_analysis_evaluation) { https://github.com/ressources-tal/canephore }
