@@ -34,5 +34,4 @@ et technologies : Application à l’analyse de sentiments - Imane El Alaoui - 2
 de réseaux profonds : application à des avis en Français - Nihel Kooli, Erwan Pigneul - 2018](https://hal.archives-ouvertes.fr/hal-01960082/document)
 
 ### Aspect-base Corpus
-* [CANEPHORE : un corpus fran¸cais pour la fouille ´
-d’opinion ciblée - Joseph Lark, Emmanuel Morin, Sebastian Peña Saldarriaga - 2015](https://www.researchgate.net/publication/279830360_CANEPHORE_a_French_corpus_for_aspect-based_sentiment_analysis_evaluation)
+* [CANEPHORE : un corpus français pour la fouille d’opinion ciblée - Joseph Lark, Emmanuel Morin, Sebastian Peña Saldarriaga - 2015](https://www.researchgate.net/publication/279830360_CANEPHORE_a_French_corpus_for_aspect-based_sentiment_analysis_evaluation)
