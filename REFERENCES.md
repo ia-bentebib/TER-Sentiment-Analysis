@@ -35,4 +35,4 @@ de réseaux profonds : application à des avis en Français - Nihel Kooli, Erwan
 
 ### Aspect-base Corpus
 * [Title - Authors - Year](Link to pdf){Link to gitHub}
-* [CANEPHORE : un corpus français pour la fouille d’opinion ciblée - Joseph Lark, Emmanuel Morin, Sebastian Peña Saldarriaga - 2015](https://www.researchgate.net/publication/279830360_CANEPHORE_a_French_corpus_for_aspect-based_sentiment_analysis_evaluation){https://github.com/ressources-tal/canephore}
+* [CANEPHORE : un corpus français pour la fouille d’opinion ciblée - Joseph Lark, Emmanuel Morin, Sebastian Peña Saldarriaga - 2015](https://www.researchgate.net/publication/279830360_CANEPHORE_a_French_corpus_for_aspect-based_sentiment_analysis_evaluation){ https://github.com/ressources-tal/canephore }
