@@ -21,7 +21,7 @@
 ```markdown
 ### Category name
 * Sentiment Analysis Articles: [Title - Authors - Year](Link to pdf)
-* Aspect-based Corpus:         [Title - Authors - Year](Link to pdf) { Link to gitHub } 
+* Aspect-based Corpus:         [Title - Authors - Year](Link to pdf) { Link to Corpus } 
 ```
 
 ### Sentiment Analysis Articles
@@ -36,3 +36,5 @@ de réseaux profonds : application à des avis en Français - Nihel Kooli, Erwan
 
 ### Aspect-based Corpus
 * [CANEPHORE : un corpus français pour la fouille d’opinion ciblée - Joseph Lark, Emmanuel Morin, Sebastian Peña Saldarriaga - 2015](https://www.researchgate.net/publication/279830360_CANEPHORE_a_French_corpus_for_aspect-based_sentiment_analysis_evaluation) { https://github.com/ressources-tal/canephore }
+
+* [Datasets for Aspect-Based Sentiment Analysis in French - Marianna Apidianaki, Xavier Tannier, Cécile Richart - 2016](http://xavier.tannier.free.fr/publications/files/16_05_27_LREC_ABSA.pdf){ http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools }
