@@ -29,3 +29,5 @@
 * [Deep Learning for Sentiment Analysis: A Survey - Lei Zhang, Shuai Wang, Bing Liu - 2018](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf)
 * [Transformer les big social data en prévisions - méthodes
 et technologies : Application à l’analyse de sentiments - Imane El Alaoui - 2018](https://tel.archives-ouvertes.fr/tel-02060594/document)
+* [Analyse de sentiments à base d’aspects par combinaison
+de réseaux profonds : application à des avis en Français - Nihel Kooli, Erwan Pigneul - 2018](https://hal.archives-ouvertes.fr/hal-01960082/document)
