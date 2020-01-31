@@ -23,6 +23,12 @@
 * [Title - Authors - Year](Link to pdf)
 ```
 
+|           | Best / Ref |  Fr  |
+| --------- | :--------: | :--: |
+| Datasets  |            |      |
+| Protocols |            |      |
+| Methods   |            |      |
+
 ### Sentiment Analysis
 
 * [A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction - Heng Yang, Biqing Zeng, JianHao Yang, Youwei Song, Ruyang Xu - 2019](https://arxiv.org/pdf/1912.07976v2.pdf)
