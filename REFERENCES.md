@@ -20,8 +20,8 @@
 
 ```markdown
 ### Category name
-* Sentiment Analysis Articles: [Title - Authors - Year](Link to pdf)
-* Aspect-based Corpus:         [Title - Authors - Year](Link to pdf) { Link to Corpus } 
+* Sentiment Analysis Articles : [Title - Authors - Year](Link to pdf)
+* Aspect-based Corpus         : [Title - Authors - Year](Link to pdf) { Link to Corpus } 
 ```
 
 ### Sentiment Analysis Articles
