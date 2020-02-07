@@ -26,7 +26,7 @@
 
 |           | Best / Ref |  FR  |
 | --------- | :--------: | :--: |
-| Datasets  | https://www.aclweb.org/anthology/C16-1146.pdf           |   https://hal.archives-ouvertes.fr/hal-01838536/document   https://www.aclweb.org/anthology/S14-2004.pdf|
+| Datasets  | https://www.aclweb.org/anthology/C16-1146.pdf https://www.aclweb.org/anthology/S14-2004.pdf          |   https://hal.archives-ouvertes.fr/hal-01838536/document |
 | Protocols |            |      |
 | Methods   |            |      |
 
