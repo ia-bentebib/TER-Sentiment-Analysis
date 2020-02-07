@@ -26,7 +26,7 @@
 
 |           | Best / Ref |  FR  |
 | --------- | :--------: | :--: |
-| Datasets  | https://www.aclweb.org/anthology/C16-1146.pdf https://www.aclweb.org/anthology/S14-2004.pdf          |   https://hal.archives-ouvertes.fr/hal-01838536/document |
+| Datasets  | https://www.aclweb.org/anthology/C16-1146.pdf https://www.aclweb.org/anthology/S14-2004.pdf http://alt.qcri.org/semeval2015/task12/data/uploads/semeval2015_absa_laptops_annotationguidelines.pdf https://www.aclweb.org/anthology/S16-1002.pdf          |   https://hal.archives-ouvertes.fr/hal-01838536/document |
 | Protocols |            |      |
 | Methods   |            |      |
 
