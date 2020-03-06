@@ -28,7 +28,7 @@
 | --------- | :--------: | :--: |
 | Datasets  | https://www.aclweb.org/anthology/C16-1146.pdf  https://www.aclweb.org/anthology/S14-2004.pdf https://www.aclweb.org/anthology/S15-2082.pdf https://www.aclweb.org/anthology/S16-1002.pdf          | https://hal.archives-ouvertes.fr/hal-01838536/document |
 | Protocols |            |      |
-| Methods   |            |      |
+| Methods   |     https://arxiv.org/pdf/1912.07976v2.pdf       |   https://hal.archives-ouvertes.fr/hal-01960082/document   |
 
 
 
