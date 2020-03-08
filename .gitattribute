@@ -2,4 +2,3 @@
 *.python linguist-detectable=true
 *.shell linguist-detectable=true
 *.html linguist-detectable=true
-*.py linguist-detectable=true 
