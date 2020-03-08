@@ -1,6 +1,4 @@
 *.java linguist-detectable=true
 *.python linguist-detectable=true
-*.html linguist-detectable=true
 *.shell linguist-detectable=true
 *.batch linguist-detectable=true
-*.xml linguist-detectable=true
