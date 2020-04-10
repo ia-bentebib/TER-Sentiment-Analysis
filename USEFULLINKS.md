@@ -46,4 +46,8 @@
     <td>HAL Archives-ouvertes</td>
     <td>https://hal.archives-ouvertes.fr/search/index/?qa%5Btext%5D%5B%5D=analyse+des+sentiments&qa%5Btext%5D%5B%5D=&submit_advanced=Rechercher&docType_s=ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR+OR+LECTURE&rows=30</td>
   </tr>
+  <tr>
+    <td>Aspect Based Sentiment Analysis State of the Art</td>
+    <td>https://paperswithcode.com/task/aspect-based-sentiment-analysis</td>
+  </tr>
 </table>
