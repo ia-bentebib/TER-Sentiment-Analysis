@@ -1,0 +1,955 @@
+,id,index_sentence,sentence,target,category,polarity,from,to
+0,g1368199-d3726982-r258755756,0,Après le palais du facteur nous voici à la halte qui est un restaurant correct.,restaurant,RESTAURANT#GENERAL,neutral,60,70
+1,g1368199-d3726982-r258755756,1,Le patron nous accueille très chaleureusement et c'est sa femme qui cuisine.,patron,SERVICE#GENERAL,positive,3,9
+2,g1368199-d3726982-r258755756,2,Tout n'est pas fait maison mais c'est bon.,NULL,FOOD#QUALITY,positive,0,0
+3,g1368199-d3726982-r258755756,3,Le prix est un peu élevé pour un repas qui n'a pas nécessité toute une implication du début à la fin.,repas,FOOD#PRICES,negative,33,38
+4,g1368199-d4713084-r245661593,0,"Des pizzas locales que vous ne mangerez pas ailleurs, accommodant les spécialités du coin.",pizzas,FOOD#STYLE_OPTIONS,positive,4,10
+5,g1368199-d4713084-r245661593,2,Très bon accueil,accueil,SERVICE#GENERAL,positive,9,16
+6,g1368199-d4714959-r269913736,0,Le cadre et le personnel sont agréables.,cadre,AMBIENCE#GENERAL,positive,3,8
+7,g1368199-d4714959-r269913736,0,Le cadre et le personnel sont agréables.,personnel,SERVICE#GENERAL,positive,15,24
+8,g1368199-d4714959-r269913736,1,"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite.",attente,SERVICE#GENERAL,negative,13,20
+9,g1368199-d4714959-r269913736,1,"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite.",ravioles,FOOD#STYLE_OPTIONS,negative,93,101
+10,g1368199-d4714959-r269913736,1,"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite.",sauce,FOOD#QUALITY,negative,62,67
+11,g1368199-d4714959-r269913736,1,"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite.",crème,FOOD#QUALITY,negative,118,123
+12,g1368199-d4714959-r269913736,2,Berk.,NULL,FOOD#QUALITY,negative,0,0
+13,g1368199-d6413468-r284111989,0,"Au centre de ce tout petit village, on ne s'attendait pas à manger aussi bien sur une terrasse agréable.",terrasse,AMBIENCE#GENERAL,positive,86,94
+14,g1368199-d6413468-r284111989,0,"Au centre de ce tout petit village, on ne s'attendait pas à manger aussi bien sur une terrasse agréable.",NULL,FOOD#QUALITY,positive,0,0
+15,g1368199-d6413468-r284111989,1,Service plaisant.,Service,SERVICE#GENERAL,positive,0,7
+16,g1368199-d7186594-r271115762,0,"Salade fanée, vin moyen, gratin de raviolis mangeable.",Salade,FOOD#QUALITY,negative,0,6
+17,g1368199-d7186594-r271115762,0,"Salade fanée, vin moyen, gratin de raviolis mangeable.",vin,DRINKS#QUALITY,neutral,14,17
+18,g1368199-d7186594-r271115762,0,"Salade fanée, vin moyen, gratin de raviolis mangeable.",gratin de raviolis,FOOD#QUALITY,neutral,25,43
+19,g1368199-d7186594-r271115762,1,Bonnes glaces.,glaces,FOOD#QUALITY,positive,7,13
+20,g1368199-d7186594-r271115762,2,Terrasse négligée.,Terrasse,AMBIENCE#GENERAL,negative,0,8
+21,g1368199-d7186594-r271115762,3,"C'est dommage, l'emplacement est idéal et le service plutôt sympa mais ça ne fait pas tout!",emplacement,LOCATION#GENERAL,positive,17,28
+22,g1368199-d7186594-r271115762,3,"C'est dommage, l'emplacement est idéal et le service plutôt sympa mais ça ne fait pas tout!",service,SERVICE#GENERAL,positive,45,52
+23,g1368199-d7186594-r271115762,3,"C'est dommage, l'emplacement est idéal et le service plutôt sympa mais ça ne fait pas tout!",NULL,RESTAURANT#GENERAL,negative,0,0
+24,g147328-d1953698-r268823910,0,"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse).",serveuses,SERVICE#GENERAL,negative,90,99
+25,g147328-d1953698-r268823910,0,"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse).",musique,AMBIENCE#GENERAL,negative,341,348
+26,g147328-d1953698-r268823910,0,"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse).",attente,SERVICE#GENERAL,negative,313,320
+27,g147328-d1953698-r268823910,0,"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse).",côtelettes,FOOD#QUALITY,negative,222,232
+28,g147328-d1953698-r268823910,0,"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse).",serveurs,SERVICE#GENERAL,negative,103,111
+29,g147328-d1953698-r268823910,1,"On est rassuré « la patronne, interpellée, va faire des enquêtes » (sic), bref c’est PARFAIT.",patronne,SERVICE#GENERAL,negative,20,28
+30,g147328-d1953698-r268823910,2,"En revanche si vous voulez manger dans des temps raisonnables même avec un choix de plats quelconque, alors A FUIR.",NULL,RESTAURANT#GENERAL,negative,0,0
+31,g147328-d1953698-r268823910,3,Je leur conseille rapidement un audit d’organisation.,NULL,SERVICE#GENERAL,negative,0,0
+32,g147328-d1953698-r268823910,4,Dommage le cadre est sympa.,cadre,AMBIENCE#GENERAL,positive,11,16
+33,g147328-d1953698-r268823910,4,Dommage le cadre est sympa.,NULL,RESTAURANT#GENERAL,negative,0,0
+34,g147328-d4228366-r283209493,0,"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme.",resto,RESTAURANT#GENERAL,positive,44,49
+35,g147328-d4228366-r283209493,0,"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme.",accueil,SERVICE#GENERAL,positive,128,135
+36,g147328-d4228366-r283209493,0,"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme.",patron,SERVICE#GENERAL,positive,164,170
+37,g147328-d4228366-r283209493,0,"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme.",femme,SERVICE#GENERAL,positive,180,185
+38,g147328-d4228366-r283209493,1,Le pavé de Saumon est extra mais pour changer je teste la poêlée de noix de st Jacques à 22euros avec en gratin du jour (pomme de terre et patate douce ) le mariage sympathique et frites .,pavé de Saumon,FOOD#QUALITY,positive,3,17
+39,g147328-d4228366-r283209493,1,Le pavé de Saumon est extra mais pour changer je teste la poêlée de noix de st Jacques à 22euros avec en gratin du jour (pomme de terre et patate douce ) le mariage sympathique et frites .,gratin du jour,FOOD#STYLE_OPTIONS,positive,105,119
+40,g147328-d4228366-r283209493,1,Le pavé de Saumon est extra mais pour changer je teste la poêlée de noix de st Jacques à 22euros avec en gratin du jour (pomme de terre et patate douce ) le mariage sympathique et frites .,poêlée de noix de st Jacques,FOOD#QUALITY,positive,58,86
+41,g147328-d4228366-r283209493,2,"Que du bonheur dans l'assiette, la cuisson de mes noix sont parfaites, légèrement nacrées à l'intérieur, moelleuses à souhait... la,sauce crème légère.",assiette,FOOD#QUALITY,positive,22,30
+42,g147328-d4228366-r283209493,2,"Que du bonheur dans l'assiette, la cuisson de mes noix sont parfaites, légèrement nacrées à l'intérieur, moelleuses à souhait... la,sauce crème légère.",noix,FOOD#QUALITY,positive,50,54
+43,g147328-d4228366-r283209493,2,"Que du bonheur dans l'assiette, la cuisson de mes noix sont parfaites, légèrement nacrées à l'intérieur, moelleuses à souhait... la,sauce crème légère.",sauce crème légère,FOOD#QUALITY,positive,132,150
+44,g147328-d4228366-r283209493,3,Je pars très satisfaite de mon plat très bon.,plat,FOOD#QUALITY,positive,31,35
+45,g147328-d4228366-r283209493,4,Une adresse à mettre dans mon top five.,adresse,RESTAURANT#GENERAL,positive,4,11
+46,g147328-d4228366-r283209493,6,Un bon rapport qualité/prix.,NULL,RESTAURANT#PRICES,positive,0,0
+47,g147328-d4228366-r283209493,6,Un bon rapport qualité/prix.,NULL,FOOD#QUALITY,positive,0,0
+48,g147328-d4282840-r219144744,0,Bonne cuisine créole.,cuisine créole,FOOD#QUALITY,positive,6,20
+49,g147328-d4282840-r219144744,1,Nous avons mangé avec nos enfants qui ont également apprécié.,NULL,FOOD#QUALITY,positive,0,0
+50,g147328-d4282840-r219144744,2,"Le service est rapide et assez froid, mais les assiettes sont bien garnies.",service,SERVICE#GENERAL,neutral,3,10
+51,g147328-d4282840-r219144744,2,"Le service est rapide et assez froid, mais les assiettes sont bien garnies.",assiettes,FOOD#STYLE_OPTIONS,positive,47,56
+52,g147328-d4282840-r219144744,3,"Le restaurant se trouvant au-dessus du marché, l'ambiance est garantie.",ambiance,AMBIENCE#GENERAL,positive,49,57
+53,g147328-d4282840-r219144744,3,"Le restaurant se trouvant au-dessus du marché, l'ambiance est garantie.",restaurant,LOCATION#GENERAL,positive,3,13
+54,g147328-d4282840-r219144744,4,L'apéro est étonnant : on vous sert une bouteille de 1 litre de rhum et une bouteille de sucre canne liquide.,apéro,DRINKS#STYLE_OPTIONS,neutral,2,7
+55,g147328-d4282840-r219144744,5,De quoi égayer la journée...,NULL,RESTAURANT#GENERAL,positive,0,0
+56,g147328-d6901743-r277407407,1,Nous avons vécu une expérience culinaire hors du commun.,NULL,FOOD#QUALITY,positive,0,0
+57,g147328-d6901743-r277407407,2,Un service impeccable et des cocktails ahurissant.,service,SERVICE#GENERAL,positive,3,10
+58,g147328-d6901743-r277407407,2,Un service impeccable et des cocktails ahurissant.,cocktails,DRINKS#QUALITY,positive,29,38
+59,g147328-d6901743-r277407407,3,Mais le summum fut l'arrivée des entrées.,entrées,FOOD#QUALITY,positive,33,40
+60,g147328-d6901743-r277407407,4,Le foi gras est le meilleur de l'île.,foi gras,FOOD#QUALITY,positive,3,11
+61,g147328-d6901743-r277407407,5,Le carpaccio de st jacques sauvages est divin.,carpaccio de st jacques sauvages,FOOD#QUALITY,positive,3,35
+62,g147328-d6901743-r277407407,6,Puis est arrivée la pluma de pata negra avec son incroyable purée a l'huile de truffe.,purée a l'huile de truffe,FOOD#QUALITY,positive,60,85
+63,g147328-d6901743-r277407407,7,Merci rodolphe pour ce repas incroyable.,repas,FOOD#QUALITY,positive,23,28
+64,g147328-d6901743-r277407407,8,A vivre absolument.,NULL,RESTAURANT#GENERAL,positive,0,0
+65,g147328-d7732677-r282059333,0,"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes).",carte,FOOD#STYLE_OPTIONS,positive,3,8
+66,g147328-d7732677-r282059333,0,"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes).",aliments,FOOD#STYLE_OPTIONS,negative,109,117
+67,g147328-d7732677-r282059333,0,"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes).","""plateaux"" de fruits de mer",FOOD#STYLE_OPTIONS,negative,203,230
+68,g147328-d7732677-r282059333,0,"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes).","""plateaux"" de fruits de mer",FOOD#PRICES,negative,203,230
+69,g147328-d7732677-r282059333,0,"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes).",aliments,FOOD#PRICES,negative,109,117
+70,g147328-d7732677-r282059333,1,"Mon choix s'est donc porté sur des pâtes aux fruits de mer (2 moules surcuites, 3 saint jacques décongelées, et beaucoup trop d'ail).",moules,FOOD#QUALITY,negative,62,68
+71,g147328-d7732677-r282059333,1,"Mon choix s'est donc porté sur des pâtes aux fruits de mer (2 moules surcuites, 3 saint jacques décongelées, et beaucoup trop d'ail).",saint jacques,FOOD#QUALITY,negative,82,95
+72,g147328-d7732677-r282059333,1,"Mon choix s'est donc porté sur des pâtes aux fruits de mer (2 moules surcuites, 3 saint jacques décongelées, et beaucoup trop d'ail).",pâtes aux fruits de mer,FOOD#STYLE_OPTIONS,negative,35,58
+73,g147328-d7732677-r282059333,2,"Salle très bruyante (on n'arrivait plus à s'entendre), mais service efficace.",service,SERVICE#GENERAL,positive,60,67
+74,g147328-d7732677-r282059333,2,"Salle très bruyante (on n'arrivait plus à s'entendre), mais service efficace.",Salle,AMBIENCE#GENERAL,negative,0,5
+75,g187080-d1333601-r283609119,0,"Le cadre est somptueux, le repas est très correct..",cadre,AMBIENCE#GENERAL,positive,3,8
+76,g187080-d1333601-r283609119,0,"Le cadre est somptueux, le repas est très correct..",repas,FOOD#QUALITY,positive,27,32
+77,g187080-d1333601-r283609119,1,De bonnes lasagnes et un café gourmand agréable..,lasagnes,FOOD#QUALITY,positive,10,18
+78,g187080-d1333601-r283609119,1,De bonnes lasagnes et un café gourmand agréable..,café gourmand,FOOD#QUALITY,positive,25,38
+79,g187080-d1333601-r283609119,2,Mais si le service très décontracté est sympathique..,service,SERVICE#GENERAL,positive,11,18
+80,g187080-d1333601-r283609119,3,Il manque de professionnalisme..,NULL,SERVICE#GENERAL,negative,0,0
+81,g187080-d1333601-r283609119,4,Résultat des cocktails pris pour l'apéro servi avec les plats..,NULL,SERVICE#GENERAL,negative,0,0
+82,g187080-d1333601-r283609119,5,Je n'ai pris aucun plaisir a prendre mon mojito avec mes lasagnes.. que j'ai pourtant attendu près de 30mn..,NULL,SERVICE#GENERAL,negative,0,0
+83,g187080-d1333601-r283609119,6,Bref dommage..,NULL,RESTAURANT#GENERAL,negative,0,0
+84,g187080-d2219892-r274812572,0,"On a pas mangé, on a bu de l'eau et de l'huile.",NULL,FOOD#QUALITY,negative,0,0
+85,g187080-d2219892-r274812572,1,Escalope milanaise panée sur un côté seulement et plein d'huile.,Escalope milanaise,FOOD#QUALITY,negative,0,18
+86,g187080-d2219892-r274812572,2,Entrecôte avec plus de nerfs que de viande et j'en passe.,Entrecôte,FOOD#QUALITY,negative,0,9
+87,g187080-d2623263-r286459884,0,un resto qui ravira les papilles avec des produits très bien cuisinés.,produits,FOOD#QUALITY,positive,42,50
+88,g187080-d2623263-r286459884,1,"mais une catastrophe côté service : on a été oublié dans un coin, par contre, les tables de droite et de gauche ont eu droit à tous les égards (faut être américains ou famille nombreuse pour être intéressant faut croire!)",service,SERVICE#GENERAL,negative,26,33
+89,g187080-d2623263-r286459884,2,"on n'a pas eu de seau à glace pour le vin blanc, pas de pain durant le repas, on a dû se lever pour interpeler les serveuses qui ne nous jetaient même pas un regard, on a énormément attendu entre les plats qu'on veuille bien daigner nous débarasser les assiettes vides... bref!",NULL,SERVICE#GENERAL,negative,0,0
+90,g187080-d2623263-r286459884,2,"on n'a pas eu de seau à glace pour le vin blanc, pas de pain durant le repas, on a dû se lever pour interpeler les serveuses qui ne nous jetaient même pas un regard, on a énormément attendu entre les plats qu'on veuille bien daigner nous débarasser les assiettes vides... bref!",serveuses,SERVICE#GENERAL,negative,115,124
+91,g187080-d2623263-r286459884,2,"on n'a pas eu de seau à glace pour le vin blanc, pas de pain durant le repas, on a dû se lever pour interpeler les serveuses qui ne nous jetaient même pas un regard, on a énormément attendu entre les plats qu'on veuille bien daigner nous débarasser les assiettes vides... bref!",NULL,SERVICE#GENERAL,negative,0,0
+92,g187080-d2623263-r286459884,3,une soirée gustative gâchée par ces à-côtés très déplaisants,NULL,FOOD#QUALITY,positive,0,0
+93,g187080-d2623263-r286459884,3,une soirée gustative gâchée par ces à-côtés très déplaisants,NULL,SERVICE#GENERAL,negative,0,0
+94,g187080-d4326654-r264742272,1,"La personne au téléphone est froide et on a l'impression de dérangé et pour un restaurant qui ferme vers 2h du matin, on nous informe qu'il reste juste une entrecôte ( je vous la met de côté si vous venez) et après il me reste que des omelettes cèpes, fromage, jambon.",NULL,SERVICE#GENERAL,negative,0,0
+95,g187080-d4326654-r264742272,1,"La personne au téléphone est froide et on a l'impression de dérangé et pour un restaurant qui ferme vers 2h du matin, on nous informe qu'il reste juste une entrecôte ( je vous la met de côté si vous venez) et après il me reste que des omelettes cèpes, fromage, jambon.",NULL,FOOD#STYLE_OPTIONS,negative,0,0
+96,g187080-d4326654-r264742272,2,Personnellement aller manger au resto une omelette autant manger chez soi.,NULL,FOOD#STYLE_OPTIONS,negative,0,0
+97,g187080-d6698528-r281099496,0,"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ?",endroit,AMBIENCE#GENERAL,positive,2,9
+98,g187080-d6698528-r281099496,0,"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ?",assiette,FOOD#QUALITY,positive,27,35
+99,g187080-d6698528-r281099496,0,"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ?",vins,DRINKS#QUALITY,positive,52,56
+100,g187080-d6698528-r281099496,0,"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ?",NULL,AMBIENCE#GENERAL,positive,0,0
+101,g187080-d6698528-r281099496,1,"On est si bien à l'Art dit Vin, on y passe de bons moments :)",Art dit Vin,RESTAURANT#GENERAL,positive,19,30
+102,g187089-d1177613-r285091795,0,"accueil sympa par 2 sénior""e""s qui mettent à l'aise",accueil,SERVICE#GENERAL,positive,0,7
+103,g187089-d1177613-r285091795,1,Le rapport qualité prix est au top avec une cuisine locale et une climatisation manuelle qui nécessite une explication,NULL,RESTAURANT#PRICES,positive,0,0
+104,g187089-d1177613-r285091795,1,Le rapport qualité prix est au top avec une cuisine locale et une climatisation manuelle qui nécessite une explication,cuisine,FOOD#QUALITY,positive,44,51
+105,g187089-d1177613-r285091795,1,Le rapport qualité prix est au top avec une cuisine locale et une climatisation manuelle qui nécessite une explication,NULL,RESTAURANT#GENERAL,positive,0,0
+106,g187089-d1177613-r285091795,2,Il s'agit de 2*2 panneaux de bois fixes au plafond avec à leur base une bande de tissu flottant manipules par un esclave cache et qui procure un réel courant d'air frais,NULL,AMBIENCE#GENERAL,positive,0,0
+107,g187089-d1177613-r285091795,3,"Pour éviter une trop grosse demande incompatible avec leur taille de four , le souffle au grand margnier ne figure pas a la carte aussi prévoir de le commander en début de repas",carte,FOOD#STYLE_OPTIONS,neutral,124,129
+108,g187089-d1177613-r285091795,4,"Une originalité :les légumes sont comptés à part , sans doute pour ne pas renchérir le prix des plats",légumes,FOOD#STYLE_OPTIONS,neutral,21,28
+109,g187089-d1177613-r285091795,4,"Une originalité :les légumes sont comptés à part , sans doute pour ne pas renchérir le prix des plats",plats,FOOD#PRICES,neutral,96,101
+110,g187089-d1177613-r285091795,5,Un restaurant a l'ancienne qui a bien du charme,restaurant,RESTAURANT#GENERAL,positive,3,13
+111,g187089-d1177613-r285091795,5,Un restaurant a l'ancienne qui a bien du charme,restaurant,AMBIENCE#GENERAL,positive,3,13
+112,g187089-d1330806-r286288418,2,Nous avons été attirés par les prix plutôt corrects.,NULL,RESTAURANT#PRICES,positive,0,0
+113,g187089-d1330806-r286288418,3,Mais quelle erreur!,NULL,RESTAURANT#GENERAL,negative,0,0
+114,g187089-d1330806-r286288418,5,Les fruits de mer en entrée étaient dégoûtants (sont-ils frais?).,fruits de mer,FOOD#QUALITY,negative,4,17
+115,g187089-d1330806-r286288418,6,"Les chipirons à l'encre étaient sucrés et insipides (sûrement congelés), l'assiette du pêcheur un peu mieux, mais on sent que rien n'est frais, ni préparé sur place et qu'ils utilisent des produits de mauvaise qualité.",chipirons à l'encre,FOOD#QUALITY,negative,4,23
+116,g187089-d1330806-r286288418,6,"Les chipirons à l'encre étaient sucrés et insipides (sûrement congelés), l'assiette du pêcheur un peu mieux, mais on sent que rien n'est frais, ni préparé sur place et qu'ils utilisent des produits de mauvaise qualité.",assiette du pêcheur,FOOD#QUALITY,neutral,75,94
+117,g187089-d1330806-r286288418,6,"Les chipirons à l'encre étaient sucrés et insipides (sûrement congelés), l'assiette du pêcheur un peu mieux, mais on sent que rien n'est frais, ni préparé sur place et qu'ils utilisent des produits de mauvaise qualité.",produits,FOOD#QUALITY,negative,189,197
+118,g187089-d1330806-r286288418,7,Les desserts étaient mangeables.,desserts,FOOD#QUALITY,neutral,4,12
+119,g187089-d1330806-r286288418,8,Le service ne venait pas vraiment relever le niveau.,service,SERVICE#GENERAL,negative,3,10
+120,g187089-d1330806-r286288418,9,Je n'avais qu'une hâte : partir!,NULL,RESTAURANT#GENERAL,negative,0,0
+121,g187089-d1330806-r286288418,11,Il doit pas aller très bien!,NULL,FOOD#QUALITY,negative,0,28
+122,g187089-d1330806-r286288418,13,Quelle blague!,NULL,RESTAURANT#GENERAL,negative,0,0
+123,g187089-d1330806-r286288418,14,Ils n'ont pas honte!!!,NULL,RESTAURANT#GENERAL,negative,0,0
+124,g187089-d1572979-r272660734,0,"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite..",assiette decouverte,FOOD#STYLE_OPTIONS,positive,18,37
+125,g187089-d1572979-r272660734,0,"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite..",Produits,FOOD#QUALITY,positive,154,162
+126,g187089-d1572979-r272660734,0,"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite..",assiette decouverte,FOOD#QUALITY,positive,18,37
+127,g187089-d1572979-r272660734,0,"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite..",sangria,DRINKS#QUALITY,positive,187,194
+128,g187089-d1913353-r234290638,0,restaurant dans une charmante petite rue piétonne de Saint Jean de Luz.,rue piétonne,LOCATION#GENERAL,positive,37,49
+129,g187089-d1913353-r234290638,1,"surprise avant même de passer la commande : une araignée était logée dans le menu !!! Aussitôt l'apéritif servi, la serveuse nous a apporté les soupes de poissons !",NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+130,g187089-d1913353-r234290638,1,"surprise avant même de passer la commande : une araignée était logée dans le menu !!! Aussitôt l'apéritif servi, la serveuse nous a apporté les soupes de poissons !",serveuse,SERVICE#GENERAL,negative,116,124
+131,g187089-d1913353-r234290638,2,erreur vite rectifiée par le patron.,patron,SERVICE#GENERAL,positive,29,35
+132,g187089-d1913353-r234290638,3,"J'ai commandé un magret bleu avec des frites, celui ci est arrivé servi avec du gratin de pommes de terre.",magret,FOOD#STYLE_OPTIONS,negative,17,23
+133,g187089-d1913353-r234290638,4,"il est reparti en cuisine pour être servi avec des frites et à son retour devant moi, il était froid !!! franchement pas le restaurant où je retournerai !",restaurant,RESTAURANT#GENERAL,negative,124,134
+134,g187089-d1913353-r234290638,4,"il est reparti en cuisine pour être servi avec des frites et à son retour devant moi, il était froid !!! franchement pas le restaurant où je retournerai !",NULL,FOOD#QUALITY,negative,0,0
+135,g187089-d1913353-r234290638,5,En plus la serveuse n'est même pas agréable et souriante,serveuse,SERVICE#GENERAL,negative,11,19
+136,g187089-d4844383-r231312697,0,Nous avons tout aimé.,NULL,RESTAURANT#GENERAL,positive,0,0
+137,g187089-d4844383-r231312697,1,"Le cadre, dîner au bord de la piscine.",cadre,AMBIENCE#GENERAL,positive,3,8
+138,g187089-d4844383-r231312697,2,La cuisine qui mériterait largement une étoile au Michelin.,cuisine,FOOD#QUALITY,positive,3,10
+139,g187089-d4844383-r231312697,3,Des associations de saveur et des cuissons impeccables.,NULL,FOOD#QUALITY,positive,0,0
+140,g187089-d4844383-r231312697,3,Des associations de saveur et des cuissons impeccables.,NULL,FOOD#STYLE_OPTIONS,positive,0,0
+141,g187141-d1324199-r286327725,0,Ce restaurant sur le port à attirer notre attention par la sobriété de sa carte.,carte,FOOD#STYLE_OPTIONS,positive,74,79
+142,g187141-d1324199-r286327725,2,En raison de la chaleur on nous a aimablement conseillé une table dans la salle climatisée.,NULL,SERVICE#GENERAL,positive,0,0
+143,g187141-d1324199-r286327725,3,L'apéro à été un peu accéléré par un serveur visiblement pressé de finir son service et qui est venu nous proposer de goûter le vin alors que nous commentions seulement à goûter les toast de tapenade.,serveur,SERVICE#GENERAL,negative,37,44
+144,g187141-d1324199-r286327725,4,( repris rapidement par le chef de salle),chef de salle,SERVICE#GENERAL,neutral,27,40
+145,g187141-d1324199-r286327725,6,En entrée un assortiment de charcuterie corse et des beignets de fromages excellentes.,assortiment de charcuterie corse,FOOD#QUALITY,positive,13,45
+146,g187141-d1324199-r286327725,6,En entrée un assortiment de charcuterie corse et des beignets de fromages excellentes.,beignets de fromages,FOOD#QUALITY,positive,53,73
+147,g187141-d1324199-r286327725,7,Puis une dorade du jour avec petits légumes : joliment présenté et très savoureux.,dorade du jour,FOOD#QUALITY,positive,9,23
+148,g187141-d1324199-r286327725,7,Puis une dorade du jour avec petits légumes : joliment présenté et très savoureux.,dorade du jour,FOOD#STYLE_OPTIONS,positive,9,23
+149,g187141-d1324199-r286327725,8,Au final une bonne table à découvrir!,table,RESTAURANT#GENERAL,positive,19,24
+150,g187141-d1325386-r283648125,1,service mauvais,service,SERVICE#GENERAL,negative,0,7
+151,g187141-d1325386-r283648125,2,prix abusif pour la prestation,NULL,RESTAURANT#PRICES,negative,0,30
+152,g187141-d1325386-r283648125,2,prix abusif pour la prestation,NULL,RESTAURANT#GENERAL,negative,0,0
+153,g187141-d1325386-r283648125,3,Vieux mouton en guise d'agneau,agneau,FOOD#QUALITY,negative,24,30
+154,g187141-d1325386-r283648125,4,assiette corse pire que sandwich SNCF,assiette corse,FOOD#QUALITY,negative,0,14
+155,g187141-d1325386-r283648125,5,assiette de fromage au singulier .....,assiette de fromage,FOOD#STYLE_OPTIONS,negative,0,19
+156,g187141-d3373737-r270715967,0,J'y suis allé plusieurs fois l'an passé c'était très correcte mais à priori quelque chose a changé en cuisine par rapport à l'an dernier car c'est devenu un vrai cauchemar.,cuisine,FOOD#QUALITY,negative,102,109
+157,g187141-d3373737-r270715967,1,"Pizza avec la pate caoutchouc et pas cuite, entrecôte hyper grasse j'ai dû en manger 1/4.",Pizza,FOOD#QUALITY,negative,0,5
+158,g187141-d3373737-r270715967,1,"Pizza avec la pate caoutchouc et pas cuite, entrecôte hyper grasse j'ai dû en manger 1/4.",entrecôte,FOOD#QUALITY,negative,44,53
+159,g187141-d3373737-r270715967,1,"Pizza avec la pate caoutchouc et pas cuite, entrecôte hyper grasse j'ai dû en manger 1/4.",pate,FOOD#QUALITY,negative,14,18
+160,g187141-d3373737-r270715967,2,passez votre chemin !,NULL,RESTAURANT#GENERAL,negative,0,0
+161,g187141-d3373737-r270715967,3,Moi ils ne me verront plus...,NULL,RESTAURANT#GENERAL,negative,0,0
+162,g187141-d3524401-r283553902,0,"Très bel endroit pour une pause déjeuner, à l'abri du soleil, avec un petit air rafraîchissant et vue sur le port.",vue,LOCATION#GENERAL,positive,98,101
+163,g187141-d3524401-r283553902,0,"Très bel endroit pour une pause déjeuner, à l'abri du soleil, avec un petit air rafraîchissant et vue sur le port.",endroit,AMBIENCE#GENERAL,positive,9,16
+164,g187141-d3524401-r283553902,0,"Très bel endroit pour une pause déjeuner, à l'abri du soleil, avec un petit air rafraîchissant et vue sur le port.",endroit,RESTAURANT#MISCELLANEOUS,positive,9,16
+165,g187141-d3524401-r283553902,1,"Cuisine simple mais bonne, Marco vous accueille très bien, vous donne des bonnes adresses si vous demandez.",Cuisine,FOOD#QUALITY,positive,0,7
+166,g187141-d3524401-r283553902,1,"Cuisine simple mais bonne, Marco vous accueille très bien, vous donne des bonnes adresses si vous demandez.",NULL,SERVICE#GENERAL,positive,0,0
+167,g187141-d3524401-r283553902,1,"Cuisine simple mais bonne, Marco vous accueille très bien, vous donne des bonnes adresses si vous demandez.",Cuisine,FOOD#STYLE_OPTIONS,neutral,0,7
+168,g187141-d3524401-r283553902,2,C'est un endroit très agréable.,endroit,RESTAURANT#GENERAL,positive,9,16
+169,g187141-d4148693-r285946967,0,"On y a manger le soir, sa terrasse est sur une place très jolie avec son églises.",place,LOCATION#GENERAL,positive,47,52
+170,g187141-d4148693-r285946967,0,"On y a manger le soir, sa terrasse est sur une place très jolie avec son églises.",terrasse,AMBIENCE#GENERAL,positive,26,34
+171,g187141-d4148693-r285946967,1,"Le repas était très bon l'entrée, le plat et le dessert.",repas,FOOD#QUALITY,positive,3,8
+172,g187141-d4148693-r285946967,2,"Juste un blême le serveur ou le directeur (j'ai pas compris ) avec son cigare il se reconnaîtra (tant pis), et il parle trop !!!!",serveur,SERVICE#GENERAL,negative,18,25
+173,g187141-d4148693-r285946967,2,"Juste un blême le serveur ou le directeur (j'ai pas compris ) avec son cigare il se reconnaîtra (tant pis), et il parle trop !!!!",directeur,SERVICE#GENERAL,negative,32,41
+174,g187147-d1013695-r253138572,0,Honnêtement le cadre du restaurant est plutôt sympathique.,cadre,AMBIENCE#GENERAL,positive,15,20
+175,g187147-d1013695-r253138572,1,"Le service et l'accueil est ""jeune"" et professionnel.",service,SERVICE#GENERAL,positive,3,10
+176,g187147-d1013695-r253138572,1,"Le service et l'accueil est ""jeune"" et professionnel.",accueil,SERVICE#GENERAL,positive,16,23
+177,g187147-d1013695-r253138572,2,La carte vous propose un large choix type brasserie.,carte,FOOD#STYLE_OPTIONS,positive,3,8
+178,g187147-d1013695-r253138572,3,Mais grosse déception...,NULL,FOOD#QUALITY,negative,0,0
+179,g187147-d1013695-r253138572,4,"Le Burger aux fromages est bien présenté, mais la tranche de fromage est égale au Macdonald... Aucune saveur et intérêt...",Burger aux fromages,FOOD#STYLE_OPTIONS,positive,3,22
+180,g187147-d1013695-r253138572,4,"Le Burger aux fromages est bien présenté, mais la tranche de fromage est égale au Macdonald... Aucune saveur et intérêt...",tranche de fromage,FOOD#QUALITY,negative,50,68
+181,g187147-d1013695-r253138572,5,"La sauce roquefort trop crémeuse, pas de goût...",sauce roquefort,FOOD#QUALITY,negative,3,18
+182,g187147-d1013695-r253138572,6,La mousse au chocolat est en réalité une ganache pleine d'eau...,mousse au chocolat,FOOD#QUALITY,negative,3,21
+183,g187147-d1013695-r253138572,8,Vraiment dommage vu le quartier et le cadre.,quartier,LOCATION#GENERAL,positive,23,31
+184,g187147-d1013695-r253138572,8,Vraiment dommage vu le quartier et le cadre.,cadre,AMBIENCE#GENERAL,positive,38,43
+185,g187147-d1013695-r253138572,8,Vraiment dommage vu le quartier et le cadre.,NULL,RESTAURANT#GENERAL,negative,0,0
+186,g187147-d1050534-r269848889,1,"Ici, tout est pro.",NULL,RESTAURANT#GENERAL,positive,0,0
+187,g187147-d1050534-r269848889,2,De l'accueil à l'assiette en passant par le rythme du service.,accueil,SERVICE#GENERAL,positive,5,12
+188,g187147-d1050534-r269848889,2,De l'accueil à l'assiette en passant par le rythme du service.,assiette,FOOD#QUALITY,positive,17,25
+189,g187147-d1050534-r269848889,2,De l'accueil à l'assiette en passant par le rythme du service.,service,SERVICE#GENERAL,positive,54,61
+190,g187147-d1050534-r269848889,3,Le décor est magnifique et c'est mieux de réserver une table au second étage où se situe la verrière ouverte en été.,décor,AMBIENCE#GENERAL,positive,3,8
+191,g187147-d1050534-r269848889,3,Le décor est magnifique et c'est mieux de réserver une table au second étage où se situe la verrière ouverte en été.,verrière,AMBIENCE#GENERAL,positive,92,100
+192,g187147-d1050534-r269848889,4,La cuisine est à la hauteur de la réputation de ce restaurant.,cuisine,FOOD#QUALITY,positive,3,10
+193,g187147-d1050534-r269848889,4,La cuisine est à la hauteur de la réputation de ce restaurant.,restaurant,RESTAURANT#GENERAL,positive,51,61
+194,g187147-d1050534-r269848889,5,Les entrées sont à 7 euros et copieuses.,entrées,FOOD#STYLE_OPTIONS,positive,4,11
+195,g187147-d1050534-r269848889,5,Les entrées sont à 7 euros et copieuses.,entrées,FOOD#PRICES,positive,4,11
+196,g187147-d1050534-r269848889,6,Les plats sont bons mais ne vous attendez pas à de grandes surprises.,plats,FOOD#QUALITY,positive,4,9
+197,g187147-d1050534-r269848889,6,Les plats sont bons mais ne vous attendez pas à de grandes surprises.,plats,FOOD#STYLE_OPTIONS,neutral,4,9
+198,g187147-d1050534-r269848889,7,"Ils maîtrisent les plats typiques ""bistrot"".",plats,FOOD#STYLE_OPTIONS,neutral,19,24
+199,g187147-d1050534-r269848889,7,"Ils maîtrisent les plats typiques ""bistrot"".",plats,FOOD#QUALITY,positive,19,24
+200,g187147-d1050534-r269848889,8,Les viandes sont excellentes notamment la bavette échalotes.,bavette échalotes,FOOD#QUALITY,positive,42,59
+201,g187147-d1050534-r269848889,8,Les viandes sont excellentes notamment la bavette échalotes.,viandes,FOOD#QUALITY,positive,4,11
+202,g187147-d1050534-r269848889,9,Leur petit pot au chocolat en dessert est une tuerie.,pot au chocolat,FOOD#QUALITY,positive,11,26
+203,g187147-d1050534-r269848889,11,Mon compagnon est végétarien et ils n'ont actuellement que des gnocchis à la crème de crustacés à proposer en plat.,plat,FOOD#STYLE_OPTIONS,negative,110,114
+204,g187147-d1050534-r269848889,13,Mais nous resterons des clients réguliers de cette adresse incontournable des amoureux des brasseries typiquement parisienne.,adresse,RESTAURANT#GENERAL,positive,51,58
+205,g187147-d1099976-r232935769,0,"Le lieu est très sympathique, bien décoré.",lieu,RESTAURANT#GENERAL,positive,3,7
+206,g187147-d1099976-r232935769,0,"Le lieu est très sympathique, bien décoré.",lieu,AMBIENCE#GENERAL,positive,3,7
+207,g187147-d1099976-r232935769,1,"Les plats n'ont aucun goût, pas d'assaisonnement c'est tout à fait grossier pour une note bien salée.",plats,FOOD#QUALITY,negative,4,9
+208,g187147-d1099976-r232935769,1,"Les plats n'ont aucun goût, pas d'assaisonnement c'est tout à fait grossier pour une note bien salée.",plats,FOOD#PRICES,negative,4,9
+209,g187147-d1099976-r232935769,1,"Les plats n'ont aucun goût, pas d'assaisonnement c'est tout à fait grossier pour une note bien salée.",plats,FOOD#STYLE_OPTIONS,negative,4,9
+210,g187147-d1099976-r232935769,2,Pour bien connaitre la cuisine marocaine ce restaurant a tout d'un attrape touriste qui fait honte à la cuisine locale.,restaurant,RESTAURANT#GENERAL,negative,44,54
+211,g187147-d1099976-r232935769,2,Pour bien connaitre la cuisine marocaine ce restaurant a tout d'un attrape touriste qui fait honte à la cuisine locale.,cuisine,FOOD#QUALITY,negative,104,111
+212,g187147-d1099976-r232935769,3,"De plus nous avons pris des bouteilles que nous n'avons pas terminés à table, nous n'avions même pas eu le droit de les amener dans la salle dansante du restaurant pour les terminer.",NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+213,g187147-d1099976-r232935769,4,Cette salle dansante est agréable malgré son étroitesse nous nous sommes amusés mais il y avait peu de monde alors je ne sais pas si le plaisir est toujours là les soirs d'affluence.,salle dansante,AMBIENCE#GENERAL,neutral,6,20
+214,g187147-d1099976-r232935769,5,Le service est correct poli mais sans entrain.,service,SERVICE#GENERAL,neutral,3,10
+215,g187147-d1099976-r232935769,6,Je n'ai pas bien mangé et je vous conseille de passer votre chemin.,NULL,FOOD#QUALITY,negative,0,0
+216,g187147-d1099976-r232935769,6,Je n'ai pas bien mangé et je vous conseille de passer votre chemin.,NULL,RESTAURANT#GENERAL,negative,0,0
+217,g187147-d1336633-r250960733,0,Quelle déception !,NULL,RESTAURANT#GENERAL,negative,0,0
+218,g187147-d1336633-r250960733,1,"Attente démesurée, le vin demandé n'est plus en cave, mais on ne nous en propose pas d'autre !",Attente,SERVICE#GENERAL,negative,0,7
+219,g187147-d1336633-r250960733,1,"Attente démesurée, le vin demandé n'est plus en cave, mais on ne nous en propose pas d'autre !",vin,DRINKS#STYLE_OPTIONS,negative,22,25
+220,g187147-d1336633-r250960733,1,"Attente démesurée, le vin demandé n'est plus en cave, mais on ne nous en propose pas d'autre !",NULL,SERVICE#GENERAL,negative,0,0
+221,g187147-d1336633-r250960733,2,"Par contre, sur la note, un vin très cher est compté !!",NULL,SERVICE#GENERAL,negative,0,55
+222,g187147-d1336633-r250960733,3,"3 plats arrivent enfin, puis une viande demandée bleue apportée bien cuite.",viande,FOOD#QUALITY,negative,33,39
+223,g187147-d1336633-r250960733,4,"Longtemps après, les premiers ayant deja fini, la deuxième viande bleue, froide.",viande,FOOD#QUALITY,negative,59,65
+224,g187147-d1336633-r250960733,4,"Longtemps après, les premiers ayant deja fini, la deuxième viande bleue, froide.",NULL,SERVICE#GENERAL,negative,0,0
+225,g187147-d1336633-r250960733,5,"Personnel peu aimable, peu disponible, un repas d'anniversaire qui a tourné aigre.",Personnel,SERVICE#GENERAL,negative,0,9
+226,g187147-d1336633-r250960733,5,"Personnel peu aimable, peu disponible, un repas d'anniversaire qui a tourné aigre.",NULL,RESTAURANT#GENERAL,negative,0,0
+227,g187147-d1336634-r158837691,0,"En famille, après une longue balade, la météo sympathique a fait que la terasse nous a attiré.",terasse,AMBIENCE#GENERAL,positive,72,79
+228,g187147-d1336634-r158837691,1,Le service et la cuisine sont correctes.,service,SERVICE#GENERAL,neutral,3,10
+229,g187147-d1336634-r158837691,1,Le service et la cuisine sont correctes.,cuisine,FOOD#QUALITY,neutral,17,24
+230,g187147-d1336634-r158837691,3,"C'était bon, sans être exceptionnel.",NULL,FOOD#QUALITY,neutral,0,0
+231,g187147-d1336634-r158837691,4,Les enfants ont adoré le mi-cuit au chocolat maison.,mi-cuit au chocolat,FOOD#QUALITY,positive,25,44
+232,g187147-d1336634-r158837691,5,Prévoir un temps d'attente pour les toilettes en sous-sol aux heures de pointes ;o),NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+233,g187147-d1336634-r158837691,7,"Si vous passez par là, vous pouvez vous arreter pour le cadre, les oiseaux et canards environnants, mais sans attendre quelque chose d'exceptionnel de la cuisine.",cadre,AMBIENCE#GENERAL,positive,56,61
+234,g187147-d1336634-r158837691,7,"Si vous passez par là, vous pouvez vous arreter pour le cadre, les oiseaux et canards environnants, mais sans attendre quelque chose d'exceptionnel de la cuisine.",cuisine,FOOD#QUALITY,neutral,154,161
+235,g187147-d1336641-r193464567,1,"Entrée plat dessert en plein Montmartre avec une qualité correcte, je trouve ça pas mal.",Entrée plat dessert,FOOD#QUALITY,neutral,0,19
+236,g187147-d1336641-r193464567,1,"Entrée plat dessert en plein Montmartre avec une qualité correcte, je trouve ça pas mal.",Montmartre,LOCATION#GENERAL,positive,29,39
+237,g187147-d1336641-r193464567,3,"Ravioles et tartiflette correctes, crêpe suzette passable.",Ravioles,FOOD#QUALITY,neutral,0,8
+238,g187147-d1336641-r193464567,3,"Ravioles et tartiflette correctes, crêpe suzette passable.",tartiflette,FOOD#QUALITY,neutral,12,23
+239,g187147-d1336641-r193464567,3,"Ravioles et tartiflette correctes, crêpe suzette passable.",crêpe suzette,FOOD#QUALITY,negative,35,48
+240,g187147-d1336641-r193464567,4,Effectivement les serveurs sont chez eux et ne font pas cas des clients quand ils discutent.,serveurs,SERVICE#GENERAL,negative,18,26
+241,g187147-d1336641-r193464567,5,Après ça mais une certaine ambiance dans la salle.,ambiance,AMBIENCE#GENERAL,neutral,27,35
+242,g187147-d1381703-r189533654,0,Repas ordinaire mais qui permet de manger à moindre coût et au chaud.,Repas,FOOD#STYLE_OPTIONS,neutral,0,5
+243,g187147-d1381703-r189533654,0,Repas ordinaire mais qui permet de manger à moindre coût et au chaud.,Repas,FOOD#PRICES,positive,0,5
+244,g187147-d1381703-r189533654,0,Repas ordinaire mais qui permet de manger à moindre coût et au chaud.,NULL,AMBIENCE#GENERAL,positive,0,0
+245,g187147-d1381703-r189533654,1,Compter 12€ le menu pour adulte et 10€ pour un enfant.,NULL,FOOD#PRICES,neutral,0,0
+246,g187147-d1381703-r189533654,2,Par contre éviter les tables devant la porte si vous ne voulez pas attraper la mort.,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+247,g187147-d1381703-r189533654,3,Le personnel n'est pas très sympa.,personnel,SERVICE#GENERAL,negative,3,12
+248,g187147-d1381703-r189533654,4,"On est un peu à l'étroit mais c'et le principe de ce genre de petite brasserie, déco à revoir car vieillissante mais familiale et conviviale.",déco,AMBIENCE#GENERAL,positive,80,84
+249,g187147-d1381703-r189533654,4,"On est un peu à l'étroit mais c'et le principe de ce genre de petite brasserie, déco à revoir car vieillissante mais familiale et conviviale.",brasserie,RESTAURANT#MISCELLANEOUS,neutral,69,78
+250,g187147-d1381703-r189533654,4,"On est un peu à l'étroit mais c'et le principe de ce genre de petite brasserie, déco à revoir car vieillissante mais familiale et conviviale.",déco,AMBIENCE#GENERAL,negative,80,84
+251,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",NULL,RESTAURANT#GENERAL,negative,0,0
+252,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",ris de veau,FOOD#QUALITY,negative,507,518
+253,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",riz arborio aux truffes,FOOD#QUALITY,negative,285,308
+254,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",riz arborio aux truffes,FOOD#PRICES,negative,285,308
+255,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",ris de veau,FOOD#STYLE_OPTIONS,negative,507,518
+256,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",ambiance,AMBIENCE#GENERAL,negative,38,46
+257,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",service,SERVICE#GENERAL,negative,108,115
+258,g187147-d1392654-r268172302,0,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.",plats,FOOD#QUALITY,negative,264,269
+259,g187147-d1392654-r268172302,1,Vins au verre décevants.,Vins au verre,DRINKS#QUALITY,negative,0,13
+260,g187147-d1392654-r268172302,2,Le soufflé que j'avais repéré sur la carte du site web n’était plus proposé.,carte,FOOD#STYLE_OPTIONS,negative,37,42
+261,g187147-d1392654-r268172302,3,Addition : 160 euros à 2 avec 2 verres chacun et en partageant le dessert.,NULL,RESTAURANT#PRICES,negative,0,0
+262,g187147-d1392654-r268172302,4,Ça ne les vaut pas.,NULL,RESTAURANT#PRICES,negative,0,0
+263,g187147-d1392654-r268172302,4,Ça ne les vaut pas.,NULL,RESTAURANT#GENERAL,negative,0,0
+264,g187147-d1392654-r268172302,5,Je ne recommande pas.,NULL,RESTAURANT#GENERAL,negative,0,0
+265,g187147-d1580042-r251298666,0,"Une adresse à conseiller si vous aimez la cuisine traditionnelle, avec juste ce qu'il faut de goût.",cuisine traditionnelle,FOOD#QUALITY,positive,42,64
+266,g187147-d1580042-r251298666,1,"Les escargots sont délicieux, l'os à moelle savoureux, et le bourguignon de nos voisins embaumait...",escargots,FOOD#QUALITY,positive,4,13
+267,g187147-d1580042-r251298666,1,"Les escargots sont délicieux, l'os à moelle savoureux, et le bourguignon de nos voisins embaumait...",os à moelle,FOOD#QUALITY,positive,32,43
+268,g187147-d1580042-r251298666,1,"Les escargots sont délicieux, l'os à moelle savoureux, et le bourguignon de nos voisins embaumait...",bourguignon,FOOD#QUALITY,positive,61,72
+269,g187147-d1580042-r251298666,2,"Petite salle mais beaucoup moins bruyante que l'on pourrait le croire, les vieilles pierres absorbent le bruit.",salle,AMBIENCE#GENERAL,positive,7,12
+270,g187147-d1580042-r251298666,3,"Service souriant, ni trop lent ni trop rapide.",Service,SERVICE#GENERAL,positive,0,7
+271,g187147-d1580042-r251298666,5,Une vraie bonne soirée.,NULL,RESTAURANT#GENERAL,positive,0,0
+272,g187147-d1580042-r251298666,6,"Bon, un peu cher mais ce n'est pas un restaurant du quotidien.",restaurant,RESTAURANT#MISCELLANEOUS,neutral,38,48
+273,g187147-d1580042-r251298666,6,"Bon, un peu cher mais ce n'est pas un restaurant du quotidien.",restaurant,RESTAURANT#PRICES,neutral,38,48
+274,g187147-d1791396-r208296800,0,Menus imposés.,Menus,FOOD#STYLE_OPTIONS,negative,0,5
+275,g187147-d1791396-r208296800,1,Apéritifs médiocres.,Apéritifs,DRINKS#QUALITY,negative,0,9
+276,g187147-d1791396-r208296800,2,Assiettes de tapas ridicules.,Assiettes de tapas,FOOD#STYLE_OPTIONS,negative,0,18
+277,g187147-d1791396-r208296800,3,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.",Plat,FOOD#QUALITY,negative,0,4
+278,g187147-d1791396-r208296800,3,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.",viande,FOOD#QUALITY,negative,19,25
+279,g187147-d1791396-r208296800,3,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.",pomme de terre,FOOD#QUALITY,negative,37,51
+280,g187147-d1791396-r208296800,3,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.",courgettes,FOOD#QUALITY,negative,61,71
+281,g187147-d1791396-r208296800,3,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.",salade,FOOD#QUALITY,negative,79,85
+282,g187147-d1791396-r208296800,3,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.",sauce au vin,FOOD#QUALITY,positive,146,158
+283,g187147-d1791396-r208296800,3,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.",plat,FOOD#QUALITY,negative,94,98
+284,g187147-d1791396-r208296800,4,Vin âcre.,Vin,DRINKS#QUALITY,negative,0,3
+285,g187147-d1791396-r208296800,5,Tarte aux pommes au calva sans calva digne d'une cantine d'école.,Tarte aux pommes au calva,FOOD#STYLE_OPTIONS,negative,0,25
+286,g187147-d1791396-r208296800,5,Tarte aux pommes au calva sans calva digne d'une cantine d'école.,Tarte aux pommes au calva,FOOD#QUALITY,negative,0,25
+287,g187147-d1791396-r208296800,6,"Arnaque du siècle, les assiettes sont peu fournies, les plats médiocres et le rapport qualité/ prix est totalement ahurissant.",NULL,FOOD#PRICES,negative,0,0
+288,g187147-d1791396-r208296800,6,"Arnaque du siècle, les assiettes sont peu fournies, les plats médiocres et le rapport qualité/ prix est totalement ahurissant.",assiettes,FOOD#STYLE_OPTIONS,negative,23,32
+289,g187147-d1791396-r208296800,6,"Arnaque du siècle, les assiettes sont peu fournies, les plats médiocres et le rapport qualité/ prix est totalement ahurissant.",plats,FOOD#QUALITY,negative,56,61
+290,g187147-d1791396-r208296800,6,"Arnaque du siècle, les assiettes sont peu fournies, les plats médiocres et le rapport qualité/ prix est totalement ahurissant.",NULL,FOOD#QUALITY,negative,0,0
+291,g187147-d1879548-r234068669,0,Des frites surgelées ...,frites,FOOD#QUALITY,negative,4,10
+292,g187147-d1879548-r234068669,1,Des boissons hors de prix .. mais c'est la même chose sur toute la place ... des sièges peu confortables mais une couverture proposée ... une naturelle bonne humeur ...,boissons,DRINKS#PRICES,negative,4,12
+293,g187147-d1879548-r234068669,1,Des boissons hors de prix .. mais c'est la même chose sur toute la place ... des sièges peu confortables mais une couverture proposée ... une naturelle bonne humeur ...,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+294,g187147-d1879548-r234068669,1,Des boissons hors de prix .. mais c'est la même chose sur toute la place ... des sièges peu confortables mais une couverture proposée ... une naturelle bonne humeur ...,NULL,SERVICE#GENERAL,positive,0,0
+295,g187147-d1879548-r234068669,2,une nourriture correcte ...,nourriture,FOOD#QUALITY,neutral,4,14
+296,g187147-d1879548-r234068669,3,Choisissez une table qui vous permet de voir travailler les peintres de Montmartre,NULL,LOCATION#GENERAL,positive,0,0
+297,g187147-d1879548-r234068669,4,Allez-y entre amis ou en famille ...,NULL,RESTAURANT#MISCELLANEOUS,positive,0,0
+298,g187147-d1879548-r234068669,5,Vous regretterez moins l'addition !,NULL,RESTAURANT#PRICES,negative,0,0
+299,g187147-d2188108-r272608937,0,"Ce petit restaurant discret vaut le détour, d'abord - et il faut le souligner - pour le chaleureux accueil que le patron réserve à ses clients (merci pour le kir ;), mais aussi pour la qualité des plats servis.",plats,FOOD#QUALITY,positive,197,202
+300,g187147-d2188108-r272608937,0,"Ce petit restaurant discret vaut le détour, d'abord - et il faut le souligner - pour le chaleureux accueil que le patron réserve à ses clients (merci pour le kir ;), mais aussi pour la qualité des plats servis.",restaurant,RESTAURANT#GENERAL,positive,9,19
+301,g187147-d2188108-r272608937,0,"Ce petit restaurant discret vaut le détour, d'abord - et il faut le souligner - pour le chaleureux accueil que le patron réserve à ses clients (merci pour le kir ;), mais aussi pour la qualité des plats servis.",accueil,SERVICE#GENERAL,positive,99,106
+302,g187147-d2188108-r272608937,1,"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets.",entrées,FOOD#QUALITY,positive,4,11
+303,g187147-d2188108-r272608937,1,"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets.",menu,FOOD#STYLE_OPTIONS,positive,49,53
+304,g187147-d2188108-r272608937,1,"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets.",plats,FOOD#PRICES,positive,75,80
+305,g187147-d2188108-r272608937,1,"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets.",entrées,FOOD#STYLE_OPTIONS,neutral,4,11
+306,g187147-d2188108-r272608937,3,L'assaisonnement était réalisé directement en cuisine et particulièrement délicieux.,assaisonnement,FOOD#QUALITY,positive,2,16
+307,g187147-d2188108-r272608937,4,"La gamme de dessert est humble, mais chacun d'eux est relevé par une petite touche créative du patron, qui en relève la saveur.",dessert,FOOD#QUALITY,positive,12,19
+308,g187147-d2188108-r272608937,4,"La gamme de dessert est humble, mais chacun d'eux est relevé par une petite touche créative du patron, qui en relève la saveur.",dessert,FOOD#STYLE_OPTIONS,neutral,12,19
+309,g187147-d2188108-r272608937,5,"Sans hésiter un endroit où il fait bon manger avec un ami ou un membre de sa famille, et qui contraste fortement avec les brasseries ""industrielles"" que l'on trouve parfois à Paris.",endroit,RESTAURANT#MISCELLANEOUS,positive,16,23
+310,g187147-d2188108-r272608937,5,"Sans hésiter un endroit où il fait bon manger avec un ami ou un membre de sa famille, et qui contraste fortement avec les brasseries ""industrielles"" que l'on trouve parfois à Paris.",endroit,RESTAURANT#GENERAL,positive,16,23
+311,g187147-d2188108-r272608937,6,N'hésitez pas !,NULL,RESTAURANT#GENERAL,positive,0,0
+312,g187147-d2192483-r252643385,0,Une merveille !,NULL,RESTAURANT#GENERAL,positive,0,0
+313,g187147-d2192483-r252643385,1,"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable.",cuisine,FOOD#QUALITY,positive,4,11
+314,g187147-d2192483-r252643385,1,"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable.",cadre,AMBIENCE#GENERAL,positive,56,61
+315,g187147-d2192483-r252643385,1,"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable.",service,SERVICE#GENERAL,positive,79,86
+316,g187147-d2192483-r252643385,1,"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable.",cuisine,FOOD#STYLE_OPTIONS,positive,4,11
+317,g187147-d2192483-r252643385,2,"En entrée, nous avons pris le haddock façon flammekueche (délicieux) et une sorte de canard confis en gelée avec noix et poires (très bon).",haddock façon flammekueche,FOOD#QUALITY,positive,30,56
+318,g187147-d2192483-r252643385,2,"En entrée, nous avons pris le haddock façon flammekueche (délicieux) et une sorte de canard confis en gelée avec noix et poires (très bon).",canard confis,FOOD#QUALITY,positive,85,98
+319,g187147-d2192483-r252643385,3,"En plat, j'ai complètement craqué sur le cabillaud risotto émulsion de chorizo (très surprenant).",cabillaud risotto émulsion de chorizo,FOOD#QUALITY,positive,41,78
+320,g187147-d2192483-r252643385,4,Enfin la masterpiece : le riz au lait vanille sauce caramel beurre salé (divin).,riz au lait vanille sauce caramel beurre salé,FOOD#QUALITY,positive,26,71
+321,g187147-d2192483-r252643385,5,La tarte sablée aux agrumes était également parfaite pour rafraîchir un diner particulièrement copieux.,tarte sablée aux agrumes,FOOD#QUALITY,positive,3,27
+322,g187147-d2192483-r252643385,5,La tarte sablée aux agrumes était également parfaite pour rafraîchir un diner particulièrement copieux.,diner,FOOD#STYLE_OPTIONS,positive,72,77
+323,g187147-d2192483-r252643385,6,Les serveurs étaient également adorables.,serveurs,SERVICE#GENERAL,positive,4,12
+324,g187147-d2192483-r252643385,7,"Un formidable moment, nous y retournerons c'est sûr, et recommandons chaudement ce restaurant !",restaurant,RESTAURANT#GENERAL,positive,83,93
+325,g187147-d2217897-r197324978,2,"le service etait proche du zero absolue et le serveur pas tres aimable mais... si la bouffe etait correcte, je ne serai pas venu ici mettre un avis..",service,SERVICE#GENERAL,negative,3,10
+326,g187147-d2217897-r197324978,2,"le service etait proche du zero absolue et le serveur pas tres aimable mais... si la bouffe etait correcte, je ne serai pas venu ici mettre un avis..",serveur,SERVICE#GENERAL,negative,46,53
+327,g187147-d2217897-r197324978,2,"le service etait proche du zero absolue et le serveur pas tres aimable mais... si la bouffe etait correcte, je ne serai pas venu ici mettre un avis..",bouffe,FOOD#QUALITY,negative,85,91
+328,g187147-d2217897-r197324978,6,"oh mon dieu, frites pas bien cuite, froide et qui sortent a peine du congelateur...la bavette aie aie aie, elle a baigne dans l'huile et aucun gout...",frites,FOOD#QUALITY,negative,13,19
+329,g187147-d2217897-r197324978,6,"oh mon dieu, frites pas bien cuite, froide et qui sortent a peine du congelateur...la bavette aie aie aie, elle a baigne dans l'huile et aucun gout...",bavette,FOOD#QUALITY,negative,86,93
+330,g187147-d2217897-r197324978,8,"je pense me rattraper sur le dessert avec la mousse au chocolat lol, et je goute une mousse execrable vraiment!",mousse au chocolat,FOOD#QUALITY,negative,45,63
+331,g187147-d2217897-r197324978,9,"aucun gout, pire que celle de metro... meme les mousse au chocolat discount sont meilleurs....",NULL,FOOD#QUALITY,negative,0,0
+332,g187147-d2217897-r197324978,11,je me suis vraiment demande si mes mecs etaient conscient de la m... qu'ils servaient….,NULL,FOOD#QUALITY,negative,0,0
+333,g187147-d2217897-r197324978,12,"pas de chance, jetais malade l'apres midi, le repas y est ss doute pour quelque chose!!",repas,FOOD#QUALITY,negative,46,51
+334,g187147-d2217897-r197324978,14,"a fuir si vous prenez la bavette, des frites et une mousse!!!",NULL,RESTAURANT#GENERAL,negative,0,0
+335,g187147-d2217897-r197324978,16,je ne prendrez pas le risque de tester les autres plats...,NULL,FOOD#QUALITY,negative,0,0
+336,g187147-d2390046-r135220748,0,Le meilleur cadre de la rue avec ses poutres et ses charpentes authentiques des tables spacieuses des prix et un rapport qualité prix rare avec des produits frais et fais maison.,cadre,AMBIENCE#GENERAL,positive,12,17
+337,g187147-d2390046-r135220748,0,Le meilleur cadre de la rue avec ses poutres et ses charpentes authentiques des tables spacieuses des prix et un rapport qualité prix rare avec des produits frais et fais maison.,NULL,RESTAURANT#GENERAL,positive,0,0
+338,g187147-d2390046-r135220748,0,Le meilleur cadre de la rue avec ses poutres et ses charpentes authentiques des tables spacieuses des prix et un rapport qualité prix rare avec des produits frais et fais maison.,produits,FOOD#QUALITY,positive,148,156
+339,g187147-d2390046-r135220748,0,Le meilleur cadre de la rue avec ses poutres et ses charpentes authentiques des tables spacieuses des prix et un rapport qualité prix rare avec des produits frais et fais maison.,NULL,RESTAURANT#PRICES,positive,0,0
+340,g187147-d2390046-r135220748,1,"Différentes formules à 12,5€ , 15,80€ et 18,90€ qui regroupent entrée + plat + dessert !!! Autant dire que c'est très rare à St.",formules,FOOD#PRICES,positive,12,20
+341,g187147-d2390046-r135220748,1,"Différentes formules à 12,5€ , 15,80€ et 18,90€ qui regroupent entrée + plat + dessert !!! Autant dire que c'est très rare à St.",formules,FOOD#STYLE_OPTIONS,positive,12,20
+342,g187147-d2390046-r135220748,3,Les serveurs sont très souriants et patients.,serveurs,SERVICE#GENERAL,positive,4,12
+343,g187147-d2390046-r135220748,4,Un véritable coup de cœur .,NULL,RESTAURANT#GENERAL,positive,0,0
+344,g187147-d2460611-r181015656,0,"Je suis allé à plusieurs reprises lors de mes escapades parisiennes, dîner dans cet établissement bien situé.",établissement,LOCATION#GENERAL,positive,84,97
+345,g187147-d2460611-r181015656,1,"L'accueil est très sympathique ; le personnel est dynamique, serviable.",accueil,SERVICE#GENERAL,positive,2,9
+346,g187147-d2460611-r181015656,1,"L'accueil est très sympathique ; le personnel est dynamique, serviable.",personnel,SERVICE#GENERAL,positive,36,45
+347,g187147-d2460611-r181015656,3,Manger le soir en terrasse est un pur régal.,NULL,FOOD#QUALITY,positive,0,0
+348,g187147-d2460611-r181015656,3,Manger le soir en terrasse est un pur régal.,terrasse,AMBIENCE#GENERAL,positive,18,26
+349,g187147-d2460611-r181015656,4,Le contenu des assiettes est tout aussi réussi : copieux et très bon de l'entrée aux desserts.,assiettes,FOOD#QUALITY,positive,15,24
+350,g187147-d2460611-r181015656,4,Le contenu des assiettes est tout aussi réussi : copieux et très bon de l'entrée aux desserts.,assiettes,FOOD#STYLE_OPTIONS,positive,15,24
+351,g187147-d2460611-r181015656,5,Je continuerai aller passer de bons moments dans cet établissement lors de mes prochains voyages dans un cadre charmant,établissement,RESTAURANT#GENERAL,positive,53,66
+352,g187147-d2460611-r181015656,5,Je continuerai aller passer de bons moments dans cet établissement lors de mes prochains voyages dans un cadre charmant,cadre,AMBIENCE#GENERAL,positive,105,110
+353,g187147-d2462243-r281238581,0,"Nous avons été au départ attirés par une terrasse ensoleillée , au calme et par sa carte aux prix raisonnables.",terrasse,AMBIENCE#GENERAL,positive,41,49
+354,g187147-d2462243-r281238581,0,"Nous avons été au départ attirés par une terrasse ensoleillée , au calme et par sa carte aux prix raisonnables.",carte,RESTAURANT#PRICES,positive,83,88
+355,g187147-d2462243-r281238581,2,"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps .",plats,FOOD#QUALITY,positive,4,9
+356,g187147-d2462243-r281238581,2,"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps .",menu du jour,FOOD#STYLE_OPTIONS,positive,65,77
+357,g187147-d2462243-r281238581,2,"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps .",Soupe de pois capuchino,FOOD#QUALITY,positive,121,144
+358,g187147-d2462243-r281238581,2,"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps .",cuisine,FOOD#QUALITY,positive,179,186
+359,g187147-d2462243-r281238581,2,"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps .",plats,FOOD#STYLE_OPTIONS,positive,4,9
+360,g187147-d2462243-r281238581,2,"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps .",cuisine,FOOD#STYLE_OPTIONS,positive,179,186
+361,g187147-d2462243-r281238581,3,"L'équipe est sympa ,serviable .",équipe,SERVICE#GENERAL,positive,2,8
+362,g187147-d2462243-r281238581,4,On est servi sans attente et avec bonne humeur.,NULL,SERVICE#GENERAL,positive,0,0
+363,g187147-d2462243-r281238581,5,Je recommande,NULL,RESTAURANT#GENERAL,positive,0,0
+364,g187147-d2468909-r145609110,0,Un restaurant d'une médiocrité sans nom !,restaurant,RESTAURANT#GENERAL,negative,3,13
+365,g187147-d2468909-r145609110,1,Nous avons attendu 15 mn pour qu'on nous prépare la table et 40mn après avoir commandé pour être servies un boeuf bourguignon dont la qualité et le goût laissent à désirer !,boeuf bourguignon,FOOD#QUALITY,negative,108,125
+366,g187147-d2468909-r145609110,1,Nous avons attendu 15 mn pour qu'on nous prépare la table et 40mn après avoir commandé pour être servies un boeuf bourguignon dont la qualité et le goût laissent à désirer !,NULL,SERVICE#GENERAL,negative,0,0
+367,g187147-d2468909-r145609110,2,Des pommes de terres quasiment crues avec des carottes crues et une sauce sans goût et non assaisonnée !,pommes de terres,FOOD#QUALITY,negative,4,20
+368,g187147-d2468909-r145609110,2,Des pommes de terres quasiment crues avec des carottes crues et une sauce sans goût et non assaisonnée !,carottes,FOOD#QUALITY,negative,46,54
+369,g187147-d2468909-r145609110,2,Des pommes de terres quasiment crues avec des carottes crues et une sauce sans goût et non assaisonnée !,sauce,FOOD#QUALITY,negative,68,73
+370,g187147-d2468909-r145609110,3,Je crois que l'on ne s'est jamais autant moqué de notre tête !,NULL,RESTAURANT#GENERAL,negative,0,0
+371,g187147-d2468909-r145609110,4,Aucune communication de la part du personnel qui a servi d'autres clients arrivés après avant nous (entrée et plat) compris !,personnel,SERVICE#GENERAL,negative,35,44
+372,g187147-d2468909-r145609110,5,Un scandale !,NULL,RESTAURANT#GENERAL,negative,0,0
+373,g187147-d2468909-r145609110,6,J'ai vraiment failli partir au bout d'une 40mn d'attente lorsque j'ai vu l'assiette arriver car j'ai clairement trouvé le comportement de la patronne exécrable et dédaigneux.,patronne,SERVICE#GENERAL,negative,141,149
+374,g187147-d2468909-r145609110,7,Un conseil : n'y mettez pas les pieds attrape touriste et une perte de temps et d'argent !,NULL,RESTAURANT#GENERAL,negative,0,0
+375,g187147-d2468909-r145609110,7,Un conseil : n'y mettez pas les pieds attrape touriste et une perte de temps et d'argent !,NULL,RESTAURANT#PRICES,negative,0,0
+376,g187147-d2468909-r145609110,7,Un conseil : n'y mettez pas les pieds attrape touriste et une perte de temps et d'argent !,NULL,SERVICE#GENERAL,negative,0,0
+377,g187147-d2501061-r240926883,0,La vue de l'extérieur sur la grande étagère de bouteilles de vins nous a attirée.,grande étagère de bouteilles de vins,AMBIENCE#GENERAL,positive,29,65
+378,g187147-d2501061-r240926883,1,Nous sommes donc rentrés dans ce resto bar à vins à la déco hyper originale!,déco,AMBIENCE#GENERAL,positive,55,59
+379,g187147-d2501061-r240926883,2,"Les serveurs sont adorables, le vin et les conseils pour le choisir sont au top!",serveurs,SERVICE#GENERAL,positive,4,12
+380,g187147-d2501061-r240926883,2,"Les serveurs sont adorables, le vin et les conseils pour le choisir sont au top!",vin,DRINKS#QUALITY,positive,32,35
+381,g187147-d2501061-r240926883,3,Idéal donc pour passer un apero avec une assiette de jambon à grignoter.,NULL,RESTAURANT#GENERAL,positive,0,0
+382,g187147-d2501061-r240926883,4,Nous avons moins été séduits par les plats que nous avons trouvé un peu chers vs la qualite proposée bien que les produits soient frais et ça c'est important.,plats,FOOD#QUALITY,neutral,37,42
+383,g187147-d2501061-r240926883,4,Nous avons moins été séduits par les plats que nous avons trouvé un peu chers vs la qualite proposée bien que les produits soient frais et ça c'est important.,produits,FOOD#QUALITY,positive,114,122
+384,g187147-d2501061-r240926883,4,Nous avons moins été séduits par les plats que nous avons trouvé un peu chers vs la qualite proposée bien que les produits soient frais et ça c'est important.,plats,FOOD#PRICES,negative,37,42
+385,g187147-d2622854-r266371537,0,"Dans une rue calme, l'accueil y est sympathique et chaleureux, la salle agréable et confortable.",salle,AMBIENCE#GENERAL,positive,66,71
+386,g187147-d2622854-r266371537,0,"Dans une rue calme, l'accueil y est sympathique et chaleureux, la salle agréable et confortable.",accueil,SERVICE#GENERAL,positive,22,29
+387,g187147-d2622854-r266371537,0,"Dans une rue calme, l'accueil y est sympathique et chaleureux, la salle agréable et confortable.",rue,LOCATION#GENERAL,positive,9,12
+388,g187147-d2622854-r266371537,1,"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins.",musique,AMBIENCE#GENERAL,positive,44,51
+389,g187147-d2622854-r266371537,1,"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins.",plats,FOOD#QUALITY,positive,151,156
+390,g187147-d2622854-r266371537,1,"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins.",plats,FOOD#STYLE_OPTIONS,positive,151,156
+391,g187147-d2622854-r266371537,1,"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins.",vins,DRINKS#QUALITY,positive,247,251
+392,g187147-d2622854-r266371537,1,"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins.",NULL,SERVICE#GENERAL,positive,0,0
+393,g187147-d2622854-r266371537,2,A refaire !!,NULL,RESTAURANT#GENERAL,positive,0,0
+394,g187147-d3522167-r271670227,0,"Je suis bien conscient que cet avis ne changera rien, le bar étant placé de manière à toujours pouvoir attirer des touristes mais bon, un lieu aussi scandaleux merite d'être dénoncé.",bar,LOCATION#GENERAL,neutral,57,60
+395,g187147-d3522167-r271670227,0,"Je suis bien conscient que cet avis ne changera rien, le bar étant placé de manière à toujours pouvoir attirer des touristes mais bon, un lieu aussi scandaleux merite d'être dénoncé.",lieu,RESTAURANT#GENERAL,negative,138,142
+396,g187147-d3522167-r271670227,1,Le serveur dont nous avons hérité est un vieil acariâtre dont l'impolitesse traduit le dégoût qu'il a pour son métier et le peu d'estime qu il se porte sans doute à lui-même.,serveur,SERVICE#GENERAL,negative,3,10
+397,g187147-d3522167-r271670227,2,"Ce service désagréable au possible est couronné d'une carte incompréhensible, aux prix exhorbitants.",service,SERVICE#GENERAL,negative,3,10
+398,g187147-d3522167-r271670227,2,"Ce service désagréable au possible est couronné d'une carte incompréhensible, aux prix exhorbitants.",carte,FOOD#STYLE_OPTIONS,negative,54,59
+399,g187147-d3522167-r271670227,2,"Ce service désagréable au possible est couronné d'une carte incompréhensible, aux prix exhorbitants.",carte,FOOD#PRICES,negative,54,59
+400,g187147-d3522167-r271670227,3,"Nous nous sommes contentés d'un verre chacun, lesquels n'étaient même pas propres.",NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+401,g187147-d3522167-r271670227,4,Un pur scandale.,NULL,RESTAURANT#GENERAL,negative,0,0
+402,g187147-d3726980-r265173396,0,Déjà le restaurant n'est pas très bien placé je trouve.,restaurant,LOCATION#GENERAL,negative,8,18
+403,g187147-d3726980-r265173396,1,"Nous sommes entrez, et la, personne pour nous accueillir...",NULL,SERVICE#GENERAL,negative,0,0
+404,g187147-d3726980-r265173396,2,"Une télé d'allumer, mais nous avons bien attendu 5 minutes avant de voir quelqu'un, qui nous a demandé de passer dans le restaurant à côté...",NULL,SERVICE#GENERAL,negative,0,0
+405,g187147-d3726980-r265173396,2,"Une télé d'allumer, mais nous avons bien attendu 5 minutes avant de voir quelqu'un, qui nous a demandé de passer dans le restaurant à côté...",NULL,AMBIENCE#GENERAL,negative,0,0
+406,g187147-d3726980-r265173396,3,"Accueil pas trop mauvais, mais j'aurais préféré pouvoir discuter avec mon conjoint sans être écouté par une des serveuses..",Accueil,SERVICE#GENERAL,neutral,0,7
+407,g187147-d3726980-r265173396,3,"Accueil pas trop mauvais, mais j'aurais préféré pouvoir discuter avec mon conjoint sans être écouté par une des serveuses..",serveuses,SERVICE#GENERAL,negative,112,121
+408,g187147-d3726980-r265173396,4,"Au niveau du repas, ce fut assez rapide pour être servi.",NULL,SERVICE#GENERAL,positive,0,56
+409,g187147-d3726980-r265173396,5,"Le repas était assez bon, mais tout est sûrement congeléx et c'est dommage d'avoir eu mon dessert quand mon homme avait fini !",repas,FOOD#QUALITY,neutral,3,8
+410,g187147-d3726980-r265173396,5,"Le repas était assez bon, mais tout est sûrement congeléx et c'est dommage d'avoir eu mon dessert quand mon homme avait fini !",NULL,SERVICE#GENERAL,negative,0,0
+411,g187147-d3726980-r265173396,5,"Le repas était assez bon, mais tout est sûrement congeléx et c'est dommage d'avoir eu mon dessert quand mon homme avait fini !",repas,FOOD#QUALITY,negative,3,8
+412,g187147-d3726980-r265173396,6,"Nous avons découvert ce restaurant avec Groupon, je ne le conseille pas sans cette offre.",restaurant,RESTAURANT#GENERAL,negative,24,34
+413,g187147-d3800655-r273788903,1,"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche.",terrasse,AMBIENCE#GENERAL,positive,3,11
+414,g187147-d3800655-r273788903,1,"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche.",plats,FOOD#STYLE_OPTIONS,positive,137,142
+415,g187147-d3800655-r273788903,1,"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche.",service,SERVICE#GENERAL,positive,59,66
+416,g187147-d3800655-r273788903,1,"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche.",formule,FOOD#STYLE_OPTIONS,positive,91,98
+417,g187147-d3800655-r273788903,2,sympa pour prendre un verre après le boulot.,NULL,RESTAURANT#MISCELLANEOUS,positive,0,0
+418,g187147-d3800655-r273788903,3,"ah : quand il fait un peu frisquet, la terrasse est chauffée et ils mettent des plaids à dispo sur les chaises, ça aide :)",terrasse,AMBIENCE#GENERAL,positive,39,47
+419,g187147-d4959566-r245854396,1,Bondé de salariés des entreprises du quartier.,NULL,RESTAURANT#MISCELLANEOUS,neutral,0,0
+420,g187147-d4959566-r245854396,2,Les pizzas sont correctes et les plats du jour sont très chers.,pizzas,FOOD#QUALITY,neutral,4,10
+421,g187147-d4959566-r245854396,2,Les pizzas sont correctes et les plats du jour sont très chers.,plats du jour,FOOD#PRICES,negative,33,46
+422,g187147-d4959566-r245854396,3,Pas de viandes sur la carte.,carte,FOOD#STYLE_OPTIONS,neutral,22,27
+423,g187147-d4959566-r245854396,4,Tiramisu très bon et abondant.,Tiramisu,FOOD#STYLE_OPTIONS,positive,0,8
+424,g187147-d4959566-r245854396,4,Tiramisu très bon et abondant.,Tiramisu,FOOD#QUALITY,positive,0,8
+425,g187147-d4959566-r245854396,5,À éviter l'hiver car peu des couverts en intérieur et la terrasse couvertes n'est pas suffisamment chauffée.,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+426,g187147-d695238-r242653723,0,Les excellentes critiques de ce restaurant se sont confirmées à table.,restaurant,RESTAURANT#GENERAL,positive,32,42
+427,g187147-d695238-r242653723,1,Le menu-carte offre un choix pour tous les goûts et permet de découvrir des plats de saison bien présentés.,menu-carte,FOOD#STYLE_OPTIONS,positive,3,13
+428,g187147-d695238-r242653723,1,Le menu-carte offre un choix pour tous les goûts et permet de découvrir des plats de saison bien présentés.,plats de saison,FOOD#STYLE_OPTIONS,positive,76,91
+429,g187147-d695238-r242653723,2,"La carte est a priori renouvelée chaque jour de 3 entrées, 3 plats et 3 desserts.",carte,FOOD#STYLE_OPTIONS,positive,3,8
+430,g187147-d695238-r242653723,3,"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis).",dorade en tartare,FOOD#QUALITY,positive,50,67
+431,g187147-d695238-r242653723,3,"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis).",crevettes cajun,FOOD#QUALITY,positive,73,88
+432,g187147-d695238-r242653723,3,"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis).",gnocchi d'agria à la truffe blanche,FOOD#QUALITY,positive,94,129
+433,g187147-d695238-r242653723,3,"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis).",dos de cabillaud,FOOD#QUALITY,positive,134,150
+434,g187147-d695238-r242653723,4,La carte des vins est également courte et fait la part belle aux Côtes du Rhône et Languedoc Roussillon en mettant en avant des cuvées abordables dont quelques unes issues de producteurs reconnus.,carte des vins,DRINKS#STYLE_OPTIONS,neutral,3,17
+435,g187147-d695238-r242653723,4,La carte des vins est également courte et fait la part belle aux Côtes du Rhône et Languedoc Roussillon en mettant en avant des cuvées abordables dont quelques unes issues de producteurs reconnus.,cuvées,DRINKS#PRICES,positive,128,134
+436,g187147-d695238-r242653723,4,La carte des vins est également courte et fait la part belle aux Côtes du Rhône et Languedoc Roussillon en mettant en avant des cuvées abordables dont quelques unes issues de producteurs reconnus.,cuvées,DRINKS#STYLE_OPTIONS,positive,128,134
+437,g187147-d695238-r242653723,5,Service attentif et sympathique.,Service,SERVICE#GENERAL,positive,0,7
+438,g187147-d695238-r242653723,6,Le sommelier n'hésite pas à changer une bouteille présentant un défaut.,sommelier,SERVICE#GENERAL,positive,3,12
+439,g187147-d695238-r242653723,7,Ambiance bistrot chic.,Ambiance,AMBIENCE#GENERAL,neutral,0,8
+440,g187147-d695238-r242653723,8,Un peu bruyant mais comme le restaurant parait rempli tous les soirs ...,restaurant,AMBIENCE#GENERAL,negative,29,39
+441,g187147-d695238-r242653723,8,Un peu bruyant mais comme le restaurant parait rempli tous les soirs ...,restaurant,RESTAURANT#MISCELLANEOUS,positive,29,39
+442,g187147-d695238-r242653723,9,Il ne manquait que la fameuse boite de bonbons à la fin du repas !,NULL,RESTAURANT#GENERAL,positive,0,0
+443,g187147-d695238-r242653723,10,Une bonne adresse à deux pas de l'Etoile.,adresse,RESTAURANT#GENERAL,positive,10,17
+444,g187147-d695238-r242653723,10,Une bonne adresse à deux pas de l'Etoile.,Etoile,LOCATION#GENERAL,neutral,34,40
+445,g187147-d695254-r250598316,0,Encore un resto qui perd petit à petit de la qualité.,resto,RESTAURANT#GENERAL,negative,10,15
+446,g187147-d695254-r250598316,1,"La deco est géniale, je suis plutôt fan, même si la préférence va à la Deco de type recup ou industriel, cette deco type romantique me plait plutôt.",deco,AMBIENCE#GENERAL,positive,3,7
+447,g187147-d695254-r250598316,2,"A l'intérieur on est tranquille et si on aime voir du monde passer on se met en terrasse, très agréable en été d ailleurs ou je passe ps mal de temps avec les copains à regarder les gens passer.",terrasse,AMBIENCE#GENERAL,positive,80,88
+448,g187147-d695254-r250598316,2,"A l'intérieur on est tranquille et si on aime voir du monde passer on se met en terrasse, très agréable en été d ailleurs ou je passe ps mal de temps avec les copains à regarder les gens passer.",intérieur,AMBIENCE#GENERAL,positive,4,13
+449,g187147-d695254-r250598316,3,"Encore un fois le problème comme dans pas mal de resto finalement le problème réside dans la nourriture qui n'est pas au niveau, ni de l'adresse, ni de l'effort fait à la déco.",nourriture,FOOD#QUALITY,negative,93,103
+450,g187147-d695254-r250598316,3,"Encore un fois le problème comme dans pas mal de resto finalement le problème réside dans la nourriture qui n'est pas au niveau, ni de l'adresse, ni de l'effort fait à la déco.",déco,AMBIENCE#GENERAL,positive,171,175
+451,g187147-d695254-r250598316,4,"Il y a quelques années, le burger en forme de cœur était un must have, il est aujourd'hui devenu commun, je ne le finis meme plus.",burger,FOOD#QUALITY,negative,27,33
+452,g187147-d714937-r251436572,0,J'ai adoré le décors...,décors,AMBIENCE#GENERAL,positive,14,20
+453,g187147-d714937-r251436572,1,J'ai apprécié l'histoire des lieux.,histoire des lieux,RESTAURANT#MISCELLANEOUS,positive,16,34
+454,g187147-d714937-r251436572,2,"Nus avons eu huîtres, crevettes roses et homard en entrée, les produits étaient de qualité.",produits,FOOD#QUALITY,positive,63,71
+455,g187147-d714937-r251436572,3,Les crevettes étaient fermes et excellente.,crevettes,FOOD#QUALITY,positive,4,13
+456,g187147-d714937-r251436572,4,"le homard un peu petit, du canadien sans doute.",homard,FOOD#STYLE_OPTIONS,negative,3,9
+457,g187147-d714937-r251436572,6,"La soupe tout d'abord très bonne, généreux en croûtons...",soupe,FOOD#QUALITY,positive,3,8
+458,g187147-d714937-r251436572,6,"La soupe tout d'abord très bonne, généreux en croûtons...",soupe,FOOD#STYLE_OPTIONS,positive,3,8
+459,g187147-d714937-r251436572,7,"La suite, les poissons très fins, un des poissons était rempli d'arrête, c'est dommage mais bon...",poissons,FOOD#QUALITY,positive,14,22
+460,g187147-d714937-r251436572,7,"La suite, les poissons très fins, un des poissons était rempli d'arrête, c'est dommage mais bon...",poissons,FOOD#QUALITY,negative,14,22
+461,g187147-d714937-r251436572,8,Cela n'enlève rien à la qualité de la bouillabaisse...,bouillabaisse,FOOD#QUALITY,positive,38,51
+462,g187147-d714937-r251436572,10,"Belle réussite sur le soufflé, attention taille impressionnante !! Fond bien dans la bouche, pas lourd du tout !",soufflé,FOOD#QUALITY,positive,22,29
+463,g187147-d714937-r251436572,10,"Belle réussite sur le soufflé, attention taille impressionnante !! Fond bien dans la bouche, pas lourd du tout !",soufflé,FOOD#STYLE_OPTIONS,positive,22,29
+464,g187147-d714937-r251436572,11,C'était un très bon déjeuner.,déjeuner,FOOD#QUALITY,positive,20,28
+465,g187147-d714947-r212090938,0,Un restaurant extrêmement bien situé tout en haut des Champs Elysée !,restaurant,LOCATION#GENERAL,positive,3,13
+466,g187147-d714947-r212090938,1,Niveau décoration cela reste très inventif et change de la décoration ordinaire.,décoration,AMBIENCE#GENERAL,positive,7,17
+467,g187147-d714947-r212090938,2,La cuisine est correcte pour les prix pratiqués.,cuisine,FOOD#QUALITY,neutral,3,10
+468,g187147-d714947-r212090938,2,La cuisine est correcte pour les prix pratiqués.,cuisine,FOOD#PRICES,positive,3,10
+469,g187147-d714947-r212090938,3,Le personnel est très occupé par les différentes tables donc ne vous attendez pas à une attention particulière envers vous !,personnel,SERVICE#GENERAL,negative,3,12
+470,g187147-d714947-r212090938,4,Restaurant à essayer (au moins une fois) pour vous en faire une idée.,Restaurant,RESTAURANT#GENERAL,positive,0,10
+471,g187147-d714958-r229872842,0,Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation...,endroit,AMBIENCE#GENERAL,positive,9,16
+472,g187147-d714958-r229872842,0,Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation...,vue,LOCATION#GENERAL,positive,22,25
+473,g187147-d714958-r229872842,0,Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation...,dîner,FOOD#PRICES,negative,128,133
+474,g187147-d714958-r229872842,0,Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation...,dîner,FOOD#QUALITY,negative,128,133
+475,g187147-d714958-r229872842,0,Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation...,dîner,FOOD#STYLE_OPTIONS,negative,128,133
+476,g187147-d714958-r229872842,1,"Le service est déplorable, il faut les supplier de prendre la commande, ils oublient d apporter la carafe d eau, ils ignorent nos mains levées et prennent un temps fou pour l addition",service,SERVICE#GENERAL,negative,3,10
+477,g187147-d714958-r229872842,2,Pour des touristes gogos et encore,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+478,g187147-d714974-r280161599,0,Cela faisait 5 ans que nous n étions pas revenu dans ce restaurant qui offre une terrasse superbe dans un quartier sympa de Paris ...,terrasse,AMBIENCE#GENERAL,positive,81,89
+479,g187147-d714974-r280161599,0,Cela faisait 5 ans que nous n étions pas revenu dans ce restaurant qui offre une terrasse superbe dans un quartier sympa de Paris ...,quartier,LOCATION#GENERAL,positive,106,114
+480,g187147-d714974-r280161599,1,Mais mon dieu quel désastre au niveau du service et de la cuisine.,service,SERVICE#GENERAL,negative,41,48
+481,g187147-d714974-r280161599,1,Mais mon dieu quel désastre au niveau du service et de la cuisine.,cuisine,FOOD#QUALITY,negative,58,65
+482,g187147-d714974-r280161599,2,A notre arrivée 3 serveurs et serveuses nous sont passés devant avant que l on nous adresse simplement la parole.,serveurs,SERVICE#GENERAL,negative,18,26
+483,g187147-d714974-r280161599,2,A notre arrivée 3 serveurs et serveuses nous sont passés devant avant que l on nous adresse simplement la parole.,serveuses,SERVICE#GENERAL,negative,30,39
+484,g187147-d714974-r280161599,3,L arrivée de la responsable fut caricaturale avec son plan de table chiffonnée essayant de nous placer à l intérieur malgré notre demande express de la terrasse.,responsable,SERVICE#GENERAL,negative,16,27
+485,g187147-d714974-r280161599,5,Assis sur des chaises de jardin peu confortable nous attendons l apéro qui arrive très rapidement le seul hic c est la différence entre nos deux verres pour le même alcool 1/4 de quantité différente.,verres,DRINKS#STYLE_OPTIONS,negative,145,151
+486,g187147-d714974-r280161599,5,Assis sur des chaises de jardin peu confortable nous attendons l apéro qui arrive très rapidement le seul hic c est la différence entre nos deux verres pour le même alcool 1/4 de quantité différente.,NULL,SERVICE#GENERAL,positive,0,0
+487,g187147-d714974-r280161599,5,Assis sur des chaises de jardin peu confortable nous attendons l apéro qui arrive très rapidement le seul hic c est la différence entre nos deux verres pour le même alcool 1/4 de quantité différente.,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+488,g187147-d714974-r280161599,6,Je vous passe le repas dont les produits sont quelconque.,produits,FOOD#QUALITY,negative,32,40
+489,g187147-d714974-r280161599,7,Même les desserts de Pierre herme que j inviterais à ne plus autoriser la distribution dans cet établissement ont été servi.,desserts,FOOD#QUALITY,negative,9,17
+490,g187147-d714974-r280161599,8,Trop frais.,NULL,FOOD#QUALITY,negative,0,0
+491,g187147-d714974-r280161599,11,bien vous ne le croirez pas on me l à apporter avec l addition en me disant qu il était déjà servis.,NULL,SERVICE#GENERAL,negative,0,0
+492,g187147-d714974-r280161599,12,Ce qu il avait oublié de dire c est qu il était aussi déjà compté dans l addition.,NULL,SERVICE#GENERAL,negative,0,0
+493,g187147-d714974-r280161599,13,Bref je ne sais pas où sont passés les anciens propriétaires mais il faut que quelqu un reprenne cet établissement en main.,établissement,RESTAURANT#GENERAL,negative,101,114
+494,g187147-d714974-r280161599,14,En attendant un seul mot d ordre ne pas y aller.,NULL,RESTAURANT#GENERAL,negative,0,0
+495,g187147-d714974-r280161599,15,Ah oui j oubliais ne regarder pas la carte affichée en vitrine vous y verrez au moins 2 mouches mortes écrasées je n ose pas mettre un pied dans la cuisine.,carte,RESTAURANT#MISCELLANEOUS,negative,37,42
+496,g187147-d714974-r280161599,16,Pour les mouches j ai la photo.,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+497,g187147-d714978-r253348916,0,Une table qui tient la route dans un quartier où les tables changent très vite?,table,RESTAURANT#GENERAL,positive,4,9
+498,g187147-d714978-r253348916,1,"Sophistiqué mais sans trop, du monde mais pas bruyant du tout, à table ou au comptoir.",NULL,RESTAURANT#MISCELLANEOUS,positive,0,0
+499,g187147-d714978-r253348916,1,"Sophistiqué mais sans trop, du monde mais pas bruyant du tout, à table ou au comptoir.",NULL,AMBIENCE#GENERAL,positive,0,0
+500,g187147-d714978-r253348916,2,Très beau menu à 35 euros le midi qui change tout le temps.,menu,FOOD#STYLE_OPTIONS,positive,10,14
+501,g187147-d714978-r253348916,3,"A la carte,plus cher, la sole meunière est un véritable délice (49 euros tout de même) et chacun sait à quel point c'est difficile de la réussir.",sole meunière,FOOD#QUALITY,positive,25,38
+502,g187147-d714978-r253348916,3,"A la carte,plus cher, la sole meunière est un véritable délice (49 euros tout de même) et chacun sait à quel point c'est difficile de la réussir.",carte,FOOD#PRICES,neutral,5,10
+503,g187147-d714978-r253348916,3,"A la carte,plus cher, la sole meunière est un véritable délice (49 euros tout de même) et chacun sait à quel point c'est difficile de la réussir.",sole meunière,FOOD#PRICES,negative,25,38
+504,g187147-d714978-r253348916,4,La côte de veau aussi.,côte de veau,FOOD#QUALITY,positive,3,15
+505,g187147-d714978-r253348916,5,Vin au verre (heureusement!).,Vin au verre,DRINKS#STYLE_OPTIONS,positive,0,12
+506,g187147-d714978-r253348916,6,Café gourmand exquis.,Café gourmand,FOOD#QUALITY,positive,0,13
+507,g187147-d714978-r253348916,7,En tout cas régulier dans un beau cadre à deux pas des Invalides.,cadre,AMBIENCE#GENERAL,positive,34,39
+508,g187147-d714983-r266137149,0,"Quel plaisir dés l'accueil, ce grand sourire, cette bise, le tout très naturel, on n'est plus habitués à ce coté amical, surtout à Paris!",accueil,SERVICE#GENERAL,positive,19,26
+509,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",cadre,AMBIENCE#GENERAL,positive,6,11
+510,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",cuisine,FOOD#QUALITY,positive,22,29
+511,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",déjeuner,FOOD#QUALITY,positive,85,93
+512,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",Turbot poché à la rhubarbe,FOOD#QUALITY,positive,125,151
+513,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",sauce crémée,FOOD#QUALITY,positive,153,165
+514,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",île flottante,FOOD#QUALITY,positive,191,204
+515,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",tarte aux pralines,FOOD#QUALITY,positive,208,226
+516,g187147-d714983-r266137149,1,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis",Beaujolais,DRINKS#QUALITY,positive,259,269
+517,g187147-d714984-r276071093,0,"Terrasse ensoleillée le dimanche, décor plutôt sympa, ça s' annonçait plutôt bien....",Terrasse,AMBIENCE#GENERAL,positive,0,8
+518,g187147-d714984-r276071093,0,"Terrasse ensoleillée le dimanche, décor plutôt sympa, ça s' annonçait plutôt bien....",décor,AMBIENCE#GENERAL,positive,34,39
+519,g187147-d714984-r276071093,1,On commande deux piscines de champagne qui nous sont servies au bout de 20 min... et sans glaçons!!!,piscines de champagne,DRINKS#STYLE_OPTIONS,negative,17,38
+520,g187147-d714984-r276071093,1,On commande deux piscines de champagne qui nous sont servies au bout de 20 min... et sans glaçons!!!,NULL,SERVICE#GENERAL,negative,0,0
+521,g187147-d714984-r276071093,2,Quand on demande à un serveur aigri comme un cornichon macéré dans du vinaigre depuis 54 ans si notre commande a bien été prise il nous agresse littéralement en nous disant que le champagne est en train d'être cherché (visiblement directement à Reims),serveur,SERVICE#GENERAL,negative,22,29
+522,g187147-d714984-r276071093,3,"Bref, les serveurs ne prennent même pas la peine de parler en anglais aux pauvres touristes échoués ici, la patronne siliconnée, botoxée, jusqu'à en avoir le visage figé (ça doit être la raison de sa cruelle absence de sourire) se pavane sur la terrasse mais ne fait pas avancer les commandes plus vite...",serveurs,SERVICE#GENERAL,negative,10,18
+523,g187147-d714984-r276071093,3,"Bref, les serveurs ne prennent même pas la peine de parler en anglais aux pauvres touristes échoués ici, la patronne siliconnée, botoxée, jusqu'à en avoir le visage figé (ça doit être la raison de sa cruelle absence de sourire) se pavane sur la terrasse mais ne fait pas avancer les commandes plus vite...",patronne,SERVICE#GENERAL,negative,108,116
+524,g187147-d714984-r276071093,4,Bref fuyez sauf si vous désirez gacher votre journée entourée de personnes arrogantes!,NULL,AMBIENCE#GENERAL,negative,0,0
+525,g187147-d714993-r162268720,0,"Service superbe et très accueillant, malheureusement ils ne savent pas décrire les plats, les noms originaux des plats sont incompréhensible.",Service,SERVICE#GENERAL,positive,0,7
+526,g187147-d714993-r162268720,0,"Service superbe et très accueillant, malheureusement ils ne savent pas décrire les plats, les noms originaux des plats sont incompréhensible.",plats,FOOD#STYLE_OPTIONS,negative,113,118
+527,g187147-d714993-r162268720,0,"Service superbe et très accueillant, malheureusement ils ne savent pas décrire les plats, les noms originaux des plats sont incompréhensible.",Service,SERVICE#GENERAL,negative,0,7
+528,g187147-d714993-r162268720,1,"Une fois servis j'ai cru que j'allais me sentir mal, ma bavette était noyée sous une quantité absurde de sauce au bleu insipide, quant à la salade de mon amie elle était pleine d'huile, de graisse et de gras.",bavette,FOOD#STYLE_OPTIONS,negative,56,63
+529,g187147-d714993-r162268720,1,"Une fois servis j'ai cru que j'allais me sentir mal, ma bavette était noyée sous une quantité absurde de sauce au bleu insipide, quant à la salade de mon amie elle était pleine d'huile, de graisse et de gras.",sauce au bleu,FOOD#QUALITY,negative,105,118
+530,g187147-d714993-r162268720,1,"Une fois servis j'ai cru que j'allais me sentir mal, ma bavette était noyée sous une quantité absurde de sauce au bleu insipide, quant à la salade de mon amie elle était pleine d'huile, de graisse et de gras.",salade,FOOD#QUALITY,negative,140,146
+531,g187147-d714993-r162268720,2,Pour Info nous sommes tous les 2 tombés malade dans la nuit.,NULL,FOOD#QUALITY,negative,0,0
+532,g187147-d714993-r162268720,3,A fuir!!!,NULL,RESTAURANT#GENERAL,negative,0,0
+533,g187147-d719057-r224501836,0,"C'est une très très belle adresse… la cuisine est remarquable car les cuissons sont parfaites, les produits ultra frais et plutôt de saison, tout est fait maison.",adresse,RESTAURANT#GENERAL,positive,26,33
+534,g187147-d719057-r224501836,0,"C'est une très très belle adresse… la cuisine est remarquable car les cuissons sont parfaites, les produits ultra frais et plutôt de saison, tout est fait maison.",cuisine,FOOD#QUALITY,positive,38,45
+535,g187147-d719057-r224501836,0,"C'est une très très belle adresse… la cuisine est remarquable car les cuissons sont parfaites, les produits ultra frais et plutôt de saison, tout est fait maison.",produits,FOOD#QUALITY,positive,99,107
+536,g187147-d719057-r224501836,2,C'est un mix de propositions créatives mais aussi de grands classiques.,NULL,FOOD#STYLE_OPTIONS,positive,0,0
+537,g187147-d719057-r224501836,3,"L'assiette est parfaite de l'entrée jusqu'au dessert, ce qui n'est pas si fréquent.",assiette,FOOD#QUALITY,positive,2,10
+538,g187147-d719057-r224501836,4,"La carte des vins est focus mais très très bien, en blanc comme en rouge.",carte des vins,DRINKS#QUALITY,positive,3,17
+539,g187147-d719057-r224501836,4,"La carte des vins est focus mais très très bien, en blanc comme en rouge.",carte des vins,DRINKS#STYLE_OPTIONS,neutral,3,17
+540,g187147-d719057-r224501836,5,On est bien dans une logique de sélection et de qualité.,NULL,DRINKS#QUALITY,positive,0,0
+541,g187147-d719057-r224501836,6,Ce ne sont pas des premiers prix mais on peut dire que le rapport qualité-prix est excellent.,rapport qualité-prix est excellent.,RESTAURANT#PRICES,positive,58,93
+542,g187147-d719057-r224501836,7,"L'accueil et le service sont à la fois pros mais détendus, il y a ce qu'il faut pour se sentir bien mais aussi être très très bien reçus et y revenir !",accueil,SERVICE#GENERAL,positive,2,9
+543,g187147-d719057-r224501836,7,"L'accueil et le service sont à la fois pros mais détendus, il y a ce qu'il faut pour se sentir bien mais aussi être très très bien reçus et y revenir !",service,SERVICE#GENERAL,positive,16,23
+544,g187147-d719057-r224501836,8,"C'est pour conclure une très belle adresse, une rare alliance de tradition et de modernité, de belle cuisine mais qui reste lisible, agréable, sophistiquée sans trop.",adresse,RESTAURANT#GENERAL,positive,35,42
+545,g187147-d719057-r224501836,8,"C'est pour conclure une très belle adresse, une rare alliance de tradition et de modernité, de belle cuisine mais qui reste lisible, agréable, sophistiquée sans trop.",cuisine,FOOD#QUALITY,positive,101,108
+546,g187147-d719057-r224501836,8,"C'est pour conclure une très belle adresse, une rare alliance de tradition et de modernité, de belle cuisine mais qui reste lisible, agréable, sophistiquée sans trop.",cuisine,FOOD#STYLE_OPTIONS,positive,101,108
+547,g187147-d719057-r224501836,9,Pas étonnant que ce soit souvent conseillé par les critiques gastronomiques.,NULL,RESTAURANT#GENERAL,positive,0,0
+548,g187147-d719058-r225514070,0,Ce restaurant est idéalement placé pour les repas d'affaires.,restaurant,LOCATION#GENERAL,positive,3,13
+549,g187147-d719058-r225514070,1,"Cependant, il ne vaut absolument pas le détour, sauf pour voir et être vu.",NULL,RESTAURANT#GENERAL,negative,0,0
+550,g187147-d719058-r225514070,2,Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle.,plats à la carte,FOOD#PRICES,negative,4,20
+551,g187147-d719058-r225514070,2,Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle.,vapeurs,FOOD#QUALITY,positive,69,76
+552,g187147-d719058-r225514070,2,Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle.,vapeurs,FOOD#PRICES,negative,69,76
+553,g187147-d719058-r225514070,2,Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle.,plats à la carte,FOOD#QUALITY,neutral,4,20
+554,g187147-d719058-r225514070,3,"Si l'on veut deux accompagnements, cela est même compté en supplément!!",accompagnements,FOOD#PRICES,negative,18,33
+555,g187147-d719058-r225514070,4,"Quant au service, il est vraiment à revoir.",service,SERVICE#GENERAL,negative,9,16
+556,g187147-d719058-r225514070,5,Prise de commande et arrivée de l'entrée interminables... et ensuite les plats qui n'arrivent pas ensemble et la moitié des accompagnements qui manquent.,NULL,SERVICE#GENERAL,negative,0,0
+557,g187147-d719058-r225514070,6,Bref à éviter!!!,NULL,RESTAURANT#GENERAL,negative,0,0
+558,g187147-d719066-r273296298,0,"Menu un peu compliqué entre Bo Boun's, salades et le reste.",Menu,FOOD#STYLE_OPTIONS,negative,0,4
+559,g187147-d719066-r273296298,1,Il vaut mieux avoir bon appétit car les plats sont copieux et bons.,plats,FOOD#STYLE_OPTIONS,positive,40,45
+560,g187147-d719066-r273296298,1,Il vaut mieux avoir bon appétit car les plats sont copieux et bons.,plats,FOOD#QUALITY,positive,40,45
+561,g187147-d719066-r273296298,2,Et les prix sont très agréables !,NULL,RESTAURANT#PRICES,positive,0,0
+562,g187147-d719066-r273296298,3,"Dommage que la salle soit aussi peu confortable, on est un peu les uns sur les autres et si vous êtes corpulents, préférez la terrasse.",salle,RESTAURANT#MISCELLANEOUS,negative,15,20
+563,g187147-d719066-r273296298,4,Le personnel est souvent débordé mais c'est la clé de la réussite et de la renommée.,personnel,SERVICE#GENERAL,neutral,3,12
+564,g187147-d780191-r267547284,0,"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable!",cadre,AMBIENCE#GENERAL,positive,55,60
+565,g187147-d780191-r267547284,0,"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable!",Menu,FOOD#STYLE_OPTIONS,positive,0,4
+566,g187147-d780191-r267547284,0,"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable!",Menu,FOOD#QUALITY,positive,0,4
+567,g187147-d780191-r267547284,0,"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable!",service,SERVICE#GENERAL,negative,134,141
+568,g187147-d780191-r267547284,1,"A trop vouloir fuir les codes du resto gastronomique (et notamment l'excès de zèle qui peut parfois en caractériser le service), le Chateaubriand va à mon sens trop loin!",service,SERVICE#GENERAL,negative,119,126
+569,g187147-d780191-r267547284,2,"Certes c'est un honneur de pouvoir goûter à la cuisine inventive d'un chef comme Inaki Aizpitarte... mais quelque soit la renommée de l'établissement et son succès, je pense que les clients ont le droit d'attendre à être servis par des personnes au minimum aimables (ne serait-ce que parce qu'ils paient)!",cuisine,FOOD#STYLE_OPTIONS,positive,47,54
+570,g187147-d780191-r267547284,2,"Certes c'est un honneur de pouvoir goûter à la cuisine inventive d'un chef comme Inaki Aizpitarte... mais quelque soit la renommée de l'établissement et son succès, je pense que les clients ont le droit d'attendre à être servis par des personnes au minimum aimables (ne serait-ce que parce qu'ils paient)!",NULL,SERVICE#GENERAL,negative,0,0
+571,g187147-d780191-r267547284,3,"J'ai pour ma part été renvoyée dans mes buts pour avoir eu le malheur de demander des précisions sur la composition d'un dessert qui ne nous a pas été présenté (en l’occurrence le tocino del cielo, un classique de la maison... on aurait dû connaître c'est peut-être pour ça?).",NULL,SERVICE#GENERAL,negative,0,0
+572,g187147-d780191-r267547284,4,"Et la personne qui m'accompagnait, auvergnate, s'est elle permise une remarque avec un grand sourire sur l'épaisseur de la tranche de St-Nectaire qui lui avait été servie (moins de 2mm) pour s'entendre répondre un ""Ah bon..."" sec et froid.",NULL,SERVICE#GENERAL,negative,0,0
+573,g187147-d780191-r267547284,4,"Et la personne qui m'accompagnait, auvergnate, s'est elle permise une remarque avec un grand sourire sur l'épaisseur de la tranche de St-Nectaire qui lui avait été servie (moins de 2mm) pour s'entendre répondre un ""Ah bon..."" sec et froid.",tranche de St-Nectaire,FOOD#STYLE_OPTIONS,negative,123,145
+574,g187147-d780191-r267547284,5,"Bref, dommage que le succès de l'établissement semble être monté à la tête des serveurs qui ont terni, voire gâché ce qui aurait pu être un très bon moment...",serveurs,SERVICE#GENERAL,negative,79,87
+575,g187147-d780191-r267547284,7,ps: sommelier top en revanche!,sommelier,SERVICE#GENERAL,positive,4,13
+576,g187147-d780747-r250470443,0,Carte compliquée à déchiffrer.,Carte,FOOD#STYLE_OPTIONS,negative,0,5
+577,g187147-d780747-r250470443,1,Plats très moyens.,Plats,FOOD#QUALITY,negative,0,5
+578,g187147-d780747-r250470443,2,"Le ""fait maison"" est en réalité un décongelé cuisiné maison.",NULL,FOOD#QUALITY,negative,0,0
+579,g187147-d780747-r250470443,3,Aucune souplesse dans la carte.,carte,FOOD#STYLE_OPTIONS,negative,25,30
+580,g187147-d780747-r250470443,4,"A titre d'exemple, si vous demandez des frites à la place de la garniture prévue, vous aurez la garniture prévue et un supplément frites (surgelées) à 5 euros.",supplément frites,FOOD#QUALITY,negative,119,136
+581,g187147-d780747-r250470443,4,"A titre d'exemple, si vous demandez des frites à la place de la garniture prévue, vous aurez la garniture prévue et un supplément frites (surgelées) à 5 euros.",supplément frites,FOOD#PRICES,negative,119,136
+582,g187147-d780747-r250470443,5,"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur.",cadre,AMBIENCE#GENERAL,positive,6,11
+583,g187147-d780747-r250470443,5,"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur.",personnel,SERVICE#GENERAL,positive,25,34
+584,g187147-d780747-r250470443,5,"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur.",carte de vins,DRINKS#STYLE_OPTIONS,positive,45,58
+585,g187147-d780747-r250470443,5,"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur.",plats,FOOD#QUALITY,negative,76,81
+586,g187147-d780747-r250470443,5,"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur.",carte,FOOD#STYLE_OPTIONS,negative,94,99
+587,g187147-d786612-r144061658,1,L'ambiance est bruyante mais relativement agréable.,ambiance,AMBIENCE#GENERAL,positive,2,10
+588,g187147-d786612-r144061658,2,"Après un quart d'heure d'attente, un serveur arrive.",attente,SERVICE#GENERAL,negative,25,32
+589,g187147-d786612-r144061658,3,Il prend la commande sur un ton excédé en se retournant pour donner des ordres aux autres serveurs.,NULL,SERVICE#GENERAL,negative,0,0
+590,g187147-d786612-r144061658,4,"La nourriture est honnête, j'ai choisi une tartine de chèvre chaud, mon mari le menu à 13 euros.",nourriture,FOOD#QUALITY,neutral,3,13
+591,g187147-d786612-r144061658,5,Honnête sans plus.,NULL,FOOD#QUALITY,neutral,0,0
+592,g187147-d786612-r144061658,6,"Bref une adresse convenable, si on accepte d'être traité comme un simple régleur d'addition ...",adresse,RESTAURANT#GENERAL,neutral,9,16
+593,g187147-d786612-r144061658,6,"Bref une adresse convenable, si on accepte d'être traité comme un simple régleur d'addition ...",NULL,SERVICE#GENERAL,negative,0,0
+594,g187147-d788463-r252957816,0,"Nous arrivons dans une salle quasi-vide un vendredi soir, malgré la recommandation d'une amie de ce restaurant comme étant une bonne adresse gastro à prix sympa...",salle,RESTAURANT#MISCELLANEOUS,negative,23,28
+595,g187147-d788463-r252957816,1,"Première table où l'on nous installe, l'ampoule au dessus est grillée, demi obscurité et les bougies sur le côté semblent bien couvertes de poussière...",NULL,AMBIENCE#GENERAL,negative,0,0
+596,g187147-d788463-r252957816,2,Tout comme les horribles rideaux qui pendouillent au dessus de nos têtes.,rideaux,AMBIENCE#GENERAL,negative,25,32
+597,g187147-d788463-r252957816,3,"On regarde au tour de nous et l'on se rend compte qu'il s'agit en fait d'un préfabriqué de fond de cours refait avec un gout douteux, comme les photos de prostitués vintage qui couvrent les murs dans des cadres brinquebalants.",NULL,AMBIENCE#GENERAL,negative,0,0
+598,g187147-d788463-r252957816,5,"Côté cuisine, un manque complet de surprise, de découverte ou d'audace...",cuisine,FOOD#STYLE_OPTIONS,negative,5,12
+599,g187147-d788463-r252957816,6,"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau.",portions,FOOD#STYLE_OPTIONS,negative,4,12
+600,g187147-d788463-r252957816,6,"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau.",onglet de veau,FOOD#STYLE_OPTIONS,negative,46,60
+601,g187147-d788463-r252957816,6,"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau.",onglet de veau,FOOD#QUALITY,negative,46,60
+602,g187147-d788463-r252957816,6,"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau.",gratin dauphinois,FOOD#STYLE_OPTIONS,negative,144,161
+603,g187147-d788463-r252957816,6,"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau.",sauce,FOOD#QUALITY,negative,189,194
+604,g187147-d788463-r252957816,7,"Le thon est tellement cru qu'il faut mieux aller chez le japonais, mais ma compagne aime ça, les thons...",thon,FOOD#QUALITY,negative,3,7
+605,g187147-d788463-r252957816,8,"On aimerait arrêter les frais, mais il y avait le dessert : la poire belle Hélène ""revisitée"", où comment une glace se transforme en crème dans une marre de chocolat où surnage des morceaux de fruits.",glace,FOOD#QUALITY,negative,110,115
+606,g187147-d788463-r252957816,10,"Oui ça doit être cela, ce soir, j'ai perdu le goût, le goût de claquer 100€ dans un resto sans saveur ni ambiance.",resto,RESTAURANT#PRICES,negative,84,89
+607,g187147-d788463-r252957816,10,"Oui ça doit être cela, ce soir, j'ai perdu le goût, le goût de claquer 100€ dans un resto sans saveur ni ambiance.",NULL,FOOD#QUALITY,negative,0,0
+608,g187147-d788463-r252957816,10,"Oui ça doit être cela, ce soir, j'ai perdu le goût, le goût de claquer 100€ dans un resto sans saveur ni ambiance.",ambiance,AMBIENCE#GENERAL,negative,105,113
+609,g187147-d794651-r259656122,2,"Mais étant donné que nous étions trop nous nombreux (13 personnes), nous avons été installé à l'étage (en nous faisant bien précisé que le rez-de-chaussée était destiné aux habitués et amateur de football et que si nous souhaitions consommer il fallait redescendre pour commander) dans un espace Iounge à peine éclairé pour pouvoir lire le menu (nous avons dû utiliser les lampes de nos smartphone).",espace Iounge,AMBIENCE#GENERAL,negative,289,302
+610,g187147-d794651-r259656122,2,"Mais étant donné que nous étions trop nous nombreux (13 personnes), nous avons été installé à l'étage (en nous faisant bien précisé que le rez-de-chaussée était destiné aux habitués et amateur de football et que si nous souhaitions consommer il fallait redescendre pour commander) dans un espace Iounge à peine éclairé pour pouvoir lire le menu (nous avons dû utiliser les lampes de nos smartphone).",NULL,SERVICE#GENERAL,negative,0,0
+611,g187147-d794651-r259656122,3,"Après avoir fait comprendre au personnel qu'il était possible d'aligner une table à côté d'une autre, nous sommes redescendus.",personnel,SERVICE#GENERAL,negative,31,40
+612,g187147-d794651-r259656122,5,Dans le partie concernant les burgers il était écrit qu'il était possible de commander le burger sans le pain (intérêt ?).,burgers,FOOD#STYLE_OPTIONS,neutral,30,37
+613,g187147-d794651-r259656122,6,"En demandant a une serveuse si le fait de prendre cette option permettait un rabais sur le tarif (déjà suffisamment cher pour la qualité), le responsable est arrivé en disant que le prix ne changeait pas (après cela vient une explication sur la marge que réalisait alors le restaurant), et a rétorqué plus tard ""nous sommes un restaurant donc notre but est de faire de la marge"" (un expert en relation client celui-là).",responsable,SERVICE#GENERAL,negative,142,153
+614,g187147-d794651-r259656122,6,"En demandant a une serveuse si le fait de prendre cette option permettait un rabais sur le tarif (déjà suffisamment cher pour la qualité), le responsable est arrivé en disant que le prix ne changeait pas (après cela vient une explication sur la marge que réalisait alors le restaurant), et a rétorqué plus tard ""nous sommes un restaurant donc notre but est de faire de la marge"" (un expert en relation client celui-là).",NULL,RESTAURANT#PRICES,negative,0,0
+615,g187147-d794651-r259656122,6,"En demandant a une serveuse si le fait de prendre cette option permettait un rabais sur le tarif (déjà suffisamment cher pour la qualité), le responsable est arrivé en disant que le prix ne changeait pas (après cela vient une explication sur la marge que réalisait alors le restaurant), et a rétorqué plus tard ""nous sommes un restaurant donc notre but est de faire de la marge"" (un expert en relation client celui-là).",NULL,FOOD#QUALITY,negative,0,0
+616,g187147-d794651-r259656122,7,"En résumé (parce que ça fait long a dire), nous avons passé une soirée un peu ternie par l'image du restaurant (dont l'état laisse à désirer), un service à table digne digne d'une cantine d'adolescent, et aucun petit mot d'excuse ou remise quelconque (quand il faut faire de la marge par n'importe quel moyen...) pour repartir avec le sourire (c'était pas gagné).",service,SERVICE#GENERAL,negative,146,153
+617,g187147-d794651-r259656122,7,"En résumé (parce que ça fait long a dire), nous avons passé une soirée un peu ternie par l'image du restaurant (dont l'état laisse à désirer), un service à table digne digne d'une cantine d'adolescent, et aucun petit mot d'excuse ou remise quelconque (quand il faut faire de la marge par n'importe quel moyen...) pour repartir avec le sourire (c'était pas gagné).",restaurant,AMBIENCE#GENERAL,negative,100,110
+618,g187147-d794651-r259656122,8,"Pour avoir été testé par des membres de la soirée au préalable, nous sommes tombés d'accord sur le fait que c'était la première fois pour certains et la dernière fois pour tout le monde que nous venions dans ce restaurant!",restaurant,RESTAURANT#GENERAL,negative,211,221
+619,g187147-d797010-r281532538,1,Quelle honte pour la gastronomie francaise!!!,NULL,FOOD#QUALITY,negative,0,0
+620,g187147-d797010-r281532538,5,"Au menu donc, un onglet de boeuf frites un steack tartare frite, et une piece de semelle avec de la puree.",NULL,FOOD#QUALITY,negative,0,0
+621,g187147-d797010-r281532538,7,TOUTES LES VIANDES SONT SANS GOUT ET SECHES!!!,VIANDES,FOOD#QUALITY,negative,11,18
+622,g187147-d797010-r281532538,8,Les frites sont certes maisons mais FAITES DES HEURES A L AVANCE ET MOLLASSONNES.,frites,FOOD#QUALITY,negative,4,10
+623,g187147-d797010-r281532538,9,Puree moins bonne qu a la cantine.,Puree,FOOD#QUALITY,negative,0,5
+624,g187147-d797010-r281532538,10,Fuyez!,NULL,RESTAURANT#GENERAL,negative,0,0
+625,g187147-d797010-r281532538,11,Il faut pas donner notre frique a cette arnaque.,NULL,RESTAURANT#GENERAL,negative,0,0
+626,g187147-d797010-r281532538,12,Vivement qu ils ferment!,NULL,RESTAURANT#GENERAL,negative,0,0
+627,g187147-d808712-r246942355,1,- une entrée saumon fumé sur céleri excellent,saumon fumé,FOOD#QUALITY,positive,13,24
+628,g187147-d808712-r246942355,2,- sauté de veau au tagliatelle très bon,sauté de veau,FOOD#QUALITY,positive,2,15
+629,g187147-d808712-r246942355,4,Vin un peu cher,Vin,DRINKS#PRICES,negative,0,3
+630,g187147-d808712-r246942355,6,- la salle est surchauffée ce qui est vraiment désagréable,salle,AMBIENCE#GENERAL,negative,5,10
+631,g187147-d808712-r246942355,7,- l'eau en caraffe n'est pas fraiche (à relier avec le point précédent ???),eau en caraffe,DRINKS#QUALITY,negative,4,18
+632,g187147-d808712-r246942355,9,Très compétitif pour le quartier et la qualité de ce que l'on a dans notre assiette.,assiette,FOOD#QUALITY,positive,75,83
+633,g187147-d808712-r246942355,9,Très compétitif pour le quartier et la qualité de ce que l'on a dans notre assiette.,NULL,RESTAURANT#PRICES,positive,0,0
+634,g187147-d823708-r116715081,0,"Le service est sympathique mais très expéditif, on à pas le temps de finir un plat que l'on nous demande si on à terminer.",service,SERVICE#GENERAL,positive,3,10
+635,g187147-d823708-r116715081,0,"Le service est sympathique mais très expéditif, on à pas le temps de finir un plat que l'on nous demande si on à terminer.",service,SERVICE#GENERAL,negative,3,10
+636,g187147-d823708-r116715081,1,Si vous êtes pressés c'est l'endroit idéal!,endroit,RESTAURANT#MISCELLANEOUS,positive,29,36
+637,g187147-d823708-r116715081,2,"Mais ce qui m'a gêné est la chose suivante : seulement deux minutes après avoir passé commande, nous étions déjà servit, les escalopes panées seraient elles toute faites à l'avance puis réchauffées?",escalopes,FOOD#QUALITY,negative,125,134
+638,g187147-d823708-r116715081,3,"Les prix des boissons et des desserts sont très élevés (4,5 euros pour une canette de coca..).",boissons,DRINKS#PRICES,negative,13,21
+639,g187147-d823708-r116715081,3,"Les prix des boissons et des desserts sont très élevés (4,5 euros pour une canette de coca..).",desserts,FOOD#PRICES,negative,29,37
+640,g187147-d823708-r116715081,3,"Les prix des boissons et des desserts sont très élevés (4,5 euros pour une canette de coca..).",canette de coca,DRINKS#PRICES,negative,75,90
+641,g187147-d823708-r116715081,4,"En bref la nourriture n'est pas extraordinaire, peut être même préparée longtemps à l'avance?",nourriture,FOOD#QUALITY,negative,11,21
+642,g187147-d823708-r116715081,5,Je ne recommanderai pas ce restaurant et n'y retournerai pas!,restaurant,RESTAURANT#GENERAL,negative,27,37
+643,g187147-d897253-r250440260,0,"Ambiance très parisienne, très m'as tu vu !",Ambiance,AMBIENCE#GENERAL,negative,0,8
+644,g187147-d897253-r250440260,1,serveuse pas souriante et peu accueillante.,serveuse,SERVICE#GENERAL,negative,0,8
+645,g187147-d897253-r250440260,2,"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant !",Cuisine,FOOD#QUALITY,negative,0,7
+646,g187147-d897253-r250440260,2,"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant !",poulet,FOOD#QUALITY,negative,22,28
+647,g187147-d897253-r250440260,2,"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant !",poulet,FOOD#STYLE_OPTIONS,negative,22,28
+648,g187147-d897253-r250440260,2,"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant !",NULL,FOOD#PRICES,negative,0,0
+649,g187147-d897253-r250440260,3,Le sandwich club n'a rien de spécial et le plat vietnamien très sec sans aucune sauce.,sandwich club,FOOD#QUALITY,negative,3,16
+650,g187147-d897253-r250440260,3,Le sandwich club n'a rien de spécial et le plat vietnamien très sec sans aucune sauce.,plat vietnamien,FOOD#QUALITY,negative,43,58
+651,g187147-d946173-r270153835,0,La décoration est un peu surchargée mais cela fait le charme de l'endroit.,décoration,AMBIENCE#GENERAL,neutral,3,13
+652,g187147-d946173-r270153835,1,J'y suis allée par hasard avec des amis un soir pour l'apéro et je suis revenue y déjeuner car la formule tapas à 15 € m'avait bien plu.,formule tapas,FOOD#STYLE_OPTIONS,positive,98,111
+653,g187147-d946173-r270153835,2,"Vous ne trouverez pas les pseudos tapas que l'on trouve à toutes les terrasses mais uniquement les vraies recettes espagnoles : rabas de calamars, croquetas de jamon y queso, pain à la tomate, croquetas de bacalao, tortilla, serrano, piquillos, calamars à l'encre, artichauts au jambon ...",recettes espagnoles,FOOD#QUALITY,positive,106,125
+654,g187147-d946173-r270153835,2,"Vous ne trouverez pas les pseudos tapas que l'on trouve à toutes les terrasses mais uniquement les vraies recettes espagnoles : rabas de calamars, croquetas de jamon y queso, pain à la tomate, croquetas de bacalao, tortilla, serrano, piquillos, calamars à l'encre, artichauts au jambon ...",recettes espagnoles,FOOD#STYLE_OPTIONS,positive,106,125
+655,g187147-d946173-r270153835,3,Sans parler de la sangria tout simplement délicieuse !,sangria,DRINKS#QUALITY,positive,18,25
+656,g187147-d946173-r270153835,4,"Les desserts sont à l'image du reste : crème catalane, gâteau basque, fromage de brebis et confiture de cerises noires ...",desserts,FOOD#STYLE_OPTIONS,positive,4,12
+657,g187147-d946173-r270153835,5,Les serveurs ne parlent pas tous très bien français mais ils sont très gentils (et leur accent espagnol renforce le côté authentique de l'endroit).,serveurs,SERVICE#GENERAL,positive,4,12
+658,g187147-d946173-r270153835,5,Les serveurs ne parlent pas tous très bien français mais ils sont très gentils (et leur accent espagnol renforce le côté authentique de l'endroit).,endroit,RESTAURANT#MISCELLANEOUS,positive,138,145
+659,g187147-d946173-r270153835,6,"Seul reproche : beaucoup de tables et peu d'espace, on est donc vite à l'étroit.",NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+660,g187147-d946173-r270153835,7,Mais j'y retournerai les yeux fermés !,NULL,RESTAURANT#GENERAL,positive,0,0
+661,g187147-d967677-r264417951,0,15€ pour une salade composée avec deux ingrédients : de la salade verte et 2 tranches de saumon fumé.,salade composée,FOOD#PRICES,negative,13,28
+662,g187147-d967677-r264417951,0,15€ pour une salade composée avec deux ingrédients : de la salade verte et 2 tranches de saumon fumé.,salade composée,FOOD#STYLE_OPTIONS,negative,13,28
+663,g187147-d967677-r264417951,1,"On en ressort avec la faim et la mauvaise impression de s'être fait plumé, avec la manière (Le saumon est disposé de telle sorte qu'il cache la forêt de salade verte qui donne l'impression d'un plat consistant).",NULL,FOOD#PRICES,negative,0,0
+664,g187147-d967677-r264417951,1,"On en ressort avec la faim et la mauvaise impression de s'être fait plumé, avec la manière (Le saumon est disposé de telle sorte qu'il cache la forêt de salade verte qui donne l'impression d'un plat consistant).",NULL,RESTAURANT#STYLE_OPTIONS,negative,0,0
+665,g187147-d967677-r264417951,2,"Si vous avez faim, fuyez !",NULL,RESTAURANT#GENERAL,negative,0,0
+666,g187154-d2342951-r278516424,1,"Hésitant au départ sur le choix du lieu, un bon verre de vin, des bons tapas de qualité engloutis,nous avons au final passé une excellente soirée avec nos amis.",tapas,FOOD#QUALITY,positive,71,76
+667,g187154-d2342951-r278516424,1,"Hésitant au départ sur le choix du lieu, un bon verre de vin, des bons tapas de qualité engloutis,nous avons au final passé une excellente soirée avec nos amis.",verre de vin,DRINKS#QUALITY,positive,48,60
+668,g187154-d2342951-r278516424,1,"Hésitant au départ sur le choix du lieu, un bon verre de vin, des bons tapas de qualité engloutis,nous avons au final passé une excellente soirée avec nos amis.",lieu,RESTAURANT#GENERAL,positive,35,39
+669,g187154-d2342951-r278516424,2,"Le Patron à l'air RUSTRE au départ, mais il joue un ""jeu"" et est super prévenant avec ses clients!",Patron,SERVICE#GENERAL,negative,3,9
+670,g187154-d2342951-r278516424,3,Un lieu simple ou passer une agréable soirée!,lieu,RESTAURANT#GENERAL,positive,3,7
+671,g187154-d2480121-r280274292,0,"Nous avions réservé pour les 20 ans de notre fils (Avril), quel déception, anniversaire en partie gâché!",NULL,RESTAURANT#GENERAL,negative,0,0
+672,g187154-d2480121-r280274292,3,"Mais aucune qualité dans l'assiette, aucune présentation, on se serait cru à un repas que l'on fait chez soi.",assiette,FOOD#QUALITY,negative,27,35
+673,g187154-d2480121-r280274292,3,"Mais aucune qualité dans l'assiette, aucune présentation, on se serait cru à un repas que l'on fait chez soi.",assiette,FOOD#STYLE_OPTIONS,negative,27,35
+674,g187154-d2480121-r280274292,4,"De plus, parmi nos assiettes, nous avions un panel de morceaux de viande du plus petit ou plus gros!",assiettes,FOOD#STYLE_OPTIONS,negative,19,28
+675,g187154-d2480121-r280274292,5,"Côté saumon, il était cru, on l'a signalé, la serveuse prend les 3 assiettes concernées, revient et nous demande à qui étaient les assiettes?!!",saumon,FOOD#QUALITY,negative,5,11
+676,g187154-d2480121-r280274292,5,"Côté saumon, il était cru, on l'a signalé, la serveuse prend les 3 assiettes concernées, revient et nous demande à qui étaient les assiettes?!!",serveuse,SERVICE#GENERAL,negative,46,54
+677,g187154-d2480121-r280274292,6,"De plus, recuit au micro onde!!! avec des haricots verts cuit vapeur, pas revenus, sans sauce, bref lamentable!",haricots verts,FOOD#QUALITY,negative,42,56
+678,g187154-d2480121-r280274292,6,"De plus, recuit au micro onde!!! avec des haricots verts cuit vapeur, pas revenus, sans sauce, bref lamentable!",NULL,FOOD#QUALITY,negative,0,0
+679,g187154-d2480121-r280274292,7,"Le gâteau: un fraisier, nous avions cherché les fraises et écœurant trop de crème.",fraisier,FOOD#QUALITY,negative,14,22
+680,g187154-d2480121-r280274292,8,"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil!",cafés,DRINKS#QUALITY,positive,46,51
+681,g187154-d2480121-r280274292,8,"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil!",assiette,FOOD#STYLE_OPTIONS,negative,152,160
+682,g187154-d2480121-r280274292,8,"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil!",cocktails sans alcool,DRINKS#QUALITY,positive,17,38
+683,g187154-d2480121-r280274292,8,"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil!",NULL,SERVICE#GENERAL,positive,0,0
+684,g187154-d2480121-r280274292,9,"La serveuse était très agréable et souriante, juste petit souci avec la prise des 3 assiettes pour faire recuire les saumons mais sinon rien à lui reprocher.",serveuse,SERVICE#GENERAL,positive,3,11
+685,g187154-d3571384-r213464453,0,"Situé entre les arênes et la cour carrée, ce restaurant ne désemplit pas.",restaurant,RESTAURANT#MISCELLANEOUS,neutral,45,55
+686,g187154-d3571384-r213464453,1,"Très curieux car la nourriture n'a rien de sensationnel, je me suis brûlé le palais avec des nems.",nourriture,FOOD#QUALITY,negative,20,30
+687,g187154-d3571384-r213464453,2,Le riz cantonais était sec et j'ai attendu pendant plus de 20 mns 2 malheureuses boules de glace.,riz cantonais,FOOD#QUALITY,negative,3,16
+688,g187154-d3571384-r213464453,2,Le riz cantonais était sec et j'ai attendu pendant plus de 20 mns 2 malheureuses boules de glace.,NULL,SERVICE#GENERAL,negative,0,0
+689,g187154-d4063063-r223186045,0,Petite cuisine de petite qualité et pas fait maison.,cuisine,FOOD#QUALITY,negative,7,14
+690,g187154-d4063063-r223186045,1,Nous aurions aimé un meilleure repas moins speedé et avec plus de gout.,repas,FOOD#QUALITY,negative,31,36
+691,g187154-d4063063-r223186045,2,L’accueil laisse à penser que tout va bien se passer mais rien ne se passe.,accueil,SERVICE#GENERAL,negative,2,9
+692,g187154-d7374510-r265641746,1,Avons été très bien reçus.,NULL,SERVICE#GENERAL,positive,0,0
+693,g187154-d7374510-r265641746,2,Service rapide et de qualité.,Service,SERVICE#GENERAL,positive,0,7
+694,g187154-d7374510-r265641746,3,"Fraîcheur des produits, de belles présentations.",produits,FOOD#QUALITY,positive,14,22
+695,g187154-d7374510-r265641746,3,"Fraîcheur des produits, de belles présentations.",NULL,FOOD#STYLE_OPTIONS,positive,0,0
+696,g187154-d7374510-r265641746,4,Adresse à retenir.,Adresse,RESTAURANT#GENERAL,positive,0,7
+697,g187154-d7374510-r265641746,5,A très bientôt.,NULL,RESTAURANT#GENERAL,positive,0,0
+698,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",restaurant,RESTAURANT#MISCELLANEOUS,neutral,35,45
+699,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",cuisine,FOOD#QUALITY,positive,122,129
+700,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",gambes,FOOD#QUALITY,positive,169,175
+701,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",NULL,SERVICE#GENERAL,positive,0,0
+702,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",agneau rosé,FOOD#QUALITY,positive,356,367
+703,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",accueil,SERVICE#GENERAL,positive,386,393
+704,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",vins de sicile,DRINKS#QUALITY,positive,402,416
+705,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",entrées,FOOD#PRICES,neutral,431,438
+706,g187231-d1333886-r254463222,0,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .",turbot pour 2,FOOD#PRICES,neutral,458,471
+707,g187231-d1333886-r254463222,1,mérite le détour ... attention : réservez !,NULL,RESTAURANT#GENERAL,positive,0,0
+708,g187231-d2340261-r209003832,0,Endroit sympa en plein centre touristique.,Endroit,RESTAURANT#GENERAL,positive,0,7
+709,g187231-d2340261-r209003832,1,Un peu vieillissant.,NULL,AMBIENCE#GENERAL,negative,0,0
+710,g187231-d2340261-r209003832,2,Nourriture classique de Menton.,Nourriture,FOOD#STYLE_OPTIONS,neutral,0,10
+711,g187231-d2340261-r209003832,3,A y aller de temps à autre.,NULL,RESTAURANT#GENERAL,positive,0,0
+712,g187231-d2340261-r209003832,4,Relativement cher pour la qualité/prix.,NULL,RESTAURANT#PRICES,negative,0,0
+713,g187231-d2340261-r209003832,4,Relativement cher pour la qualité/prix.,NULL,FOOD#QUALITY,negative,0,0
+714,g187231-d2340261-r285013288,0,Superbe cadre si on mange dehors.,cadre,AMBIENCE#GENERAL,positive,8,13
+715,g187231-d2340261-r285013288,1,"Accueil des plus stériles , presque l'impression de déranger .",Accueil,SERVICE#GENERAL,negative,0,7
+716,g187231-d2340261-r285013288,2,"Nous commandons 2 pizza , d'aspect correcte mais baignant dans l'huile , ok nous sommes dans le sud donc nous passons outre.",pizza,FOOD#QUALITY,negative,18,23
+717,g187231-d2340261-r285013288,3,"Après dégustation c'est le drame , un cailloux dans la pizza de mon ami.",pizza,FOOD#QUALITY,negative,55,60
+718,g187231-d2340261-r285013288,4,"J'appel la serveuse pour me plaindre , aucune excuse , pour elle c'est normal car il s'agit de champignon frais et nous dit que la prochaine fois ils feront du congelé...",serveuse,SERVICE#GENERAL,negative,11,19
+719,g187231-d2340261-r285013288,7,A fuire,NULL,RESTAURANT#GENERAL,negative,0,0
+720,g187231-d4064829-r228653543,0,"Manifestement, nous derangeons la serveuse.",serveuse,SERVICE#GENERAL,negative,34,42
+721,g187231-d4064829-r228653543,1,"Le mojito est abominable, tiède, beaucoup trop sucré, citron balancé tel quel dans le verre...",mojito,DRINKS#QUALITY,negative,3,9
+722,g187231-d4064829-r228653543,1,"Le mojito est abominable, tiède, beaucoup trop sucré, citron balancé tel quel dans le verre...",mojito,DRINKS#STYLE_OPTIONS,negative,3,9
+723,g187231-d4495419-r285328643,0,Cuisine de saison avec des petites courgettes de pays excellentes accompagnées d'un magret cuit à la perfection.,Cuisine,FOOD#QUALITY,positive,0,7
+724,g187231-d4495419-r285328643,0,Cuisine de saison avec des petites courgettes de pays excellentes accompagnées d'un magret cuit à la perfection.,courgettes,FOOD#QUALITY,positive,35,45
+725,g187231-d4495419-r285328643,0,Cuisine de saison avec des petites courgettes de pays excellentes accompagnées d'un magret cuit à la perfection.,magret,FOOD#QUALITY,positive,84,90
+726,g187231-d4495419-r285328643,1,"Dans sa cuisine ouverte, on sent la passion du patron et en terrasse, malgré l'affluence, on apprécie la gentillesse et les conseils de sa femme et de son fils.",NULL,AMBIENCE#GENERAL,positive,0,0
+727,g187231-d4495419-r285328643,1,"Dans sa cuisine ouverte, on sent la passion du patron et en terrasse, malgré l'affluence, on apprécie la gentillesse et les conseils de sa femme et de son fils.",NULL,SERVICE#GENERAL,positive,0,0
+728,g187231-d4495419-r285328643,2,A recommander aux amateurs de bonne viande et de produits du terroir.,viande,FOOD#QUALITY,positive,36,42
+729,g187231-d4495419-r285328643,2,A recommander aux amateurs de bonne viande et de produits du terroir.,NULL,FOOD#STYLE_OPTIONS,positive,0,0
+730,g187261-d1331006-r239302949,1,Nous avons été déçu par le service.,service,SERVICE#GENERAL,negative,27,34
+731,g187261-d1331006-r239302949,2,Serveur dépassé alors que la terrasse n'était pas remplie.,Serveur,SERVICE#GENERAL,negative,0,7
+732,g187261-d1331006-r239302949,3,"Les repas sont arrivés au compte-goutte, ce qui fait que mon fils et petit fils ont eu leurs pizzas 10 minutes après nous.",NULL,SERVICE#GENERAL,negative,0,0
+733,g187261-d1331006-r239302949,4,Très déçue par ce restaurant,restaurant,RESTAURANT#GENERAL,negative,18,28
+734,g187261-d1723807-r254827953,0,Je conseille fortement le déjeuner en terrasse avec forfait spa.,terrasse,AMBIENCE#GENERAL,positive,38,46
+735,g187261-d1723807-r254827953,1,"Un peu à l'écart du centre ville, serein.",NULL,AMBIENCE#GENERAL,positive,0,0
+736,g187261-d1723807-r254827953,1,"Un peu à l'écart du centre ville, serein.",NULL,LOCATION#GENERAL,positive,0,0
+737,g187261-d2560506-r152965073,1,"Prix extrêmement cher, usine à fric.",NULL,RESTAURANT#PRICES,negative,0,0
+738,g187261-d2560506-r152965073,3,"Le serveur aux cheveux longs, brun, la trentaine, s'est empressé de me répondre d'un ton très méprisant qu'à chamonix l'eau est payante.",serveur,SERVICE#GENERAL,negative,3,10
+739,g187261-d2560506-r152965073,4,"Lui soutenant qu'il se devait de céder à ma demande d'après la législation en vigueur dans notre pays, il m'a ouvertement ignoré, et juste proposé de consulter la direction.",NULL,SERVICE#GENERAL,negative,0,0
+740,g187261-d2560506-r152965073,5,Honteux.,NULL,RESTAURANT#GENERAL,negative,0,0
+741,g187261-d6513284-r286726408,0,"Un service parfait, très bonne table , vu la petite superficie du lieu , tout est bien .",service,SERVICE#GENERAL,positive,3,10
+742,g187261-d6513284-r286726408,0,"Un service parfait, très bonne table , vu la petite superficie du lieu , tout est bien .",lieu,RESTAURANT#GENERAL,positive,66,70
+743,g187261-d6513284-r286726408,0,"Un service parfait, très bonne table , vu la petite superficie du lieu , tout est bien .",table,FOOD#QUALITY,positive,31,36
+744,g187261-d6513284-r286726408,1,"il faut y aller , pour conclure l'extraordinaire lieu montagnard à 3842 m.",lieu,LOCATION#GENERAL,positive,49,53
+745,g187261-d6513284-r286726408,2,"Encore bravo pour le chef ,et son équipe.",NULL,FOOD#QUALITY,positive,0,0
+746,g187261-d6513284-r286726408,2,"Encore bravo pour le chef ,et son équipe.",équipe,SERVICE#GENERAL,positive,34,40
+747,g187261-d796310-r260189846,1,"Le cadre est joli, les serveuses sympa mais peu disponibles.",serveuses,SERVICE#GENERAL,positive,23,32
+748,g187261-d796310-r260189846,1,"Le cadre est joli, les serveuses sympa mais peu disponibles.",cadre,AMBIENCE#GENERAL,positive,3,8
+749,g187261-d796310-r260189846,1,"Le cadre est joli, les serveuses sympa mais peu disponibles.",serveuses,SERVICE#GENERAL,negative,23,32
+750,g187261-d796310-r260189846,3,Les viandes étaient bonnes mais un peu juste en quantités à mon goût.,viandes,FOOD#QUALITY,positive,4,11
+751,g187261-d796310-r260189846,3,Les viandes étaient bonnes mais un peu juste en quantités à mon goût.,viandes,FOOD#STYLE_OPTIONS,neutral,4,11
+752,g187261-d796310-r260189846,4,"Les sauces mayonnaises maison étaient bonnes mais sans plus, elles manquaient un peu de saveurs.",sauces mayonnaises,FOOD#QUALITY,neutral,4,22
+753,g187261-d796310-r260189846,5,La tartiflette était correcte.,tartiflette,FOOD#QUALITY,neutral,3,14
+754,g187261-d796310-r260189846,6,"Bref, le repas n'était pas mauvais mais je n'ai pas été emballé.",repas,FOOD#QUALITY,neutral,9,14
+755,g187261-d796310-r260189846,6,"Bref, le repas n'était pas mauvais mais je n'ai pas été emballé.",NULL,RESTAURANT#GENERAL,neutral,0,0
+756,g196600-d3190307-r270783736,0,Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!!,nourriture,FOOD#QUALITY,positive,22,32
+757,g196600-d3190307-r270783736,0,Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!!,Endroit,AMBIENCE#GENERAL,positive,9,16
+758,g196600-d3190307-r270783736,0,Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!!,patron,SERVICE#GENERAL,positive,44,50
+759,g196600-d3190307-r270783736,0,Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!!,bouteille,DRINKS#QUALITY,positive,75,84
+760,g196600-d3190307-r270783736,0,Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!!,NULL,RESTAURANT#GENERAL,positive,0,0
+761,g196600-d3190307-r270783736,1,A recommander 1000 fois!,NULL,RESTAURANT#GENERAL,positive,0,0
+762,g196600-d3484303-r261037238,0,Un très bon moment passé dans ce restaurant.,restaurant,RESTAURANT#GENERAL,positive,33,43
+763,g196600-d3484303-r261037238,1,Ma femme et moi même nous sommes régalés.,NULL,FOOD#QUALITY,positive,0,0
+764,g196600-d3484303-r261037238,2,Les plats que nous avons choisis étaient très copieux.,plats,FOOD#STYLE_OPTIONS,positive,4,9
+765,g196600-d3724990-r188221316,0,Ras à signaler de fameux depuis deux mois !!!,NULL,FOOD#QUALITY,negative,0,0
+766,g196600-d3724990-r188221316,1,C'est comme si les produits nobles avaient disparu.,produits,FOOD#QUALITY,negative,19,27
+767,g196600-d3724990-r188221316,2,Il n'y a pas que la hampe dans la vie,NULL,FOOD#STYLE_OPTIONS,negative,0,0
+768,g196600-d4185739-r279690471,0,"De l'accueil à la cuisine tout est bas de gamme, heureusement le rabatteur est là pour piéger les touristes qui passent par là.",accueil,SERVICE#GENERAL,negative,5,12
+769,g196600-d4185739-r279690471,0,"De l'accueil à la cuisine tout est bas de gamme, heureusement le rabatteur est là pour piéger les touristes qui passent par là.",cuisine,FOOD#QUALITY,negative,18,25
+770,g196600-d4185739-r279690471,0,"De l'accueil à la cuisine tout est bas de gamme, heureusement le rabatteur est là pour piéger les touristes qui passent par là.",rabatteur,SERVICE#GENERAL,negative,65,74
+771,g196600-d4185739-r279690471,1,A ÉVITER !!!,NULL,RESTAURANT#GENERAL,negative,0,0
+772,g196600-d7148865-r283492680,0,tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable,produit,FOOD#QUALITY,positive,9,16
+773,g196600-d7148865-r283492680,0,tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable,hamburger,FOOD#QUALITY,positive,17,26
+774,g196600-d7148865-r283492680,0,tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable,frites,FOOD#QUALITY,positive,30,36
+775,g196600-d7148865-r283492680,0,tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable,patron,SERVICE#GENERAL,positive,56,62
+776,g196600-d7148865-r283492680,0,tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable,NULL,RESTAURANT#PRICES,positive,0,0
+777,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,NULL,RESTAURANT#GENERAL,negative,0,0
+778,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,emplacement,LOCATION#GENERAL,positive,4,15
+779,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,restaurant,RESTAURANT#GENERAL,negative,24,34
+780,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,serveur,SERVICE#GENERAL,negative,65,72
+781,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,cuisine,FOOD#QUALITY,negative,131,138
+782,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,assiettes,FOOD#STYLE_OPTIONS,negative,153,162
+783,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,assiettes,FOOD#QUALITY,negative,153,162
+784,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,assiette de charcuterie,FOOD#STYLE_OPTIONS,neutral,193,216
+785,g196627-d1337697-r176456453,0,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,andouillette et pomme de terre,FOOD#QUALITY,negative,233,263
+786,g196627-d2693443-r224617462,0,"Je passe sur le temps,1h30 pour un repas simple.",NULL,SERVICE#GENERAL,negative,0,0
+787,g196627-d2693443-r224617462,1,Une carte hyper simple mais une serveuse complètement perdue.,carte,FOOD#STYLE_OPTIONS,neutral,4,9
+788,g196627-d2693443-r224617462,1,Une carte hyper simple mais une serveuse complètement perdue.,serveuse,SERVICE#GENERAL,negative,32,40
+789,g196627-d2693443-r224617462,2,Des erreurs de prise de commande et une patronne qui refuse de changer les plats sous prétexte qu'elle ne va pas jeter l'assiette et qu'elle l'a fait avec amour mdr.,patronne,SERVICE#GENERAL,negative,40,48
+790,g196627-d2693443-r224617462,3,Apparemment il n'est pas question de perdre de l'argent dans ce restaurant et elle invente des prétextes encensés pour faire passer la pilule.Toute la salle est de mon avis et en colère.,restaurant,RESTAURANT#MISCELLANEOUS,negative,64,74
+791,g196627-d2693443-r224617462,3,Apparemment il n'est pas question de perdre de l'argent dans ce restaurant et elle invente des prétextes encensés pour faire passer la pilule.Toute la salle est de mon avis et en colère.,NULL,SERVICE#GENERAL,negative,0,0
+792,g196627-d2693443-r224617462,5,"Je vous passe les ""prises de bec"" avec la patronne pour lui faire comprendre que sa réaction est intolérable et non commerçante.",patronne,SERVICE#GENERAL,negative,42,50
+793,g196627-d2693443-r224617462,6,"Sur un menu enfant qui n'a jamais été demandé, elle a le culot de m'annoncer lors de l'addition, qu'elle m'offre la 2eme boule de glace alors que dans le menu enfant la glace n'a qu'une boule....(sans commentaire).",NULL,SERVICE#GENERAL,negative,0,0
+794,g196627-d2693443-r224617462,7,Restaurant a ne pas conseiller et surtout à bannir afin d’éviter que la profession de la restaurant ne soit bafouée par ce genre de pseudo restaurateur qui devrait penser à changer de métier.,Restaurant,RESTAURANT#GENERAL,negative,0,10
+795,g196627-d2693443-r224617462,7,Restaurant a ne pas conseiller et surtout à bannir afin d’éviter que la profession de la restaurant ne soit bafouée par ce genre de pseudo restaurateur qui devrait penser à changer de métier.,restaurateur,SERVICE#GENERAL,negative,139,151
+796,g196627-d2707641-r283795278,0,Un cadre très rose mais agréable pour des dîners en couple ou entre amis.,cadre,AMBIENCE#GENERAL,positive,3,8
+797,g196627-d2707641-r283795278,1,Des assiettes très bien présentées et un bon accueil avec des personnes souriantes.,assiettes,FOOD#STYLE_OPTIONS,positive,4,13
+798,g196627-d2707641-r283795278,1,Des assiettes très bien présentées et un bon accueil avec des personnes souriantes.,accueil,SERVICE#GENERAL,positive,45,52
+799,g196627-d3589693-r226968990,0,"Mais comment peux on mettre 5 étoiles à un resto ""asiatique"" ou tout n'est que du réchauffé, décongelé provenant de métro ou promocash.",NULL,FOOD#QUALITY,negative,0,0
+800,g196627-d3589693-r226968990,1,Il y a même des frites et des nuggets !,NULL,FOOD#STYLE_OPTIONS,negative,0,0
+801,g196627-d3589693-r226968990,2,Vraiment très dépaysant !,NULL,FOOD#STYLE_OPTIONS,negative,0,0
+802,g196627-d3589693-r226968990,2,Vraiment très dépaysant !,NULL,RESTAURANT#GENERAL,negative,0,0
+803,g196627-d3589693-r226968990,3,Bref tres bien pour prendre un plateau a emporter (10€) et manger ça devant la télé.,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+804,g196627-d3589693-r226968990,4,"Si vous cherchez un Restaurant, passez votre chemin !",NULL,RESTAURANT#GENERAL,negative,0,0
+805,g196627-d7394151-r283518422,0,"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable.",Accueil,SERVICE#GENERAL,positive,0,7
+806,g196627-d7394151-r283518422,0,"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable.",arrière salle,AMBIENCE#GENERAL,positive,20,33
+807,g196627-d7394151-r283518422,0,"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable.",cuisine,FOOD#QUALITY,positive,93,100
+808,g196627-d7394151-r283518422,0,"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable.",produits,FOOD#QUALITY,positive,152,160
+809,g196627-d7394151-r283518422,0,"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable.",NULL,RESTAURANT#PRICES,neutral,0,0
+810,g196627-d7394151-r283518422,0,"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable.",grillades au feu de bois,FOOD#QUALITY,positive,102,126
+811,g196627-d7394151-r283518422,1,A ne surtout pas manquer.,NULL,RESTAURANT#GENERAL,positive,0,0
+812,g196673-d1116913-r280920040,0,"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer.",accueil,SERVICE#GENERAL,positive,2,9
+813,g196673-d1116913-r280920040,0,"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer.",cuisine,FOOD#QUALITY,neutral,27,34
+814,g196673-d1116913-r280920040,0,"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer.",NULL,RESTAURANT#PRICES,neutral,0,0
+815,g196673-d1116913-r280920040,0,"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer.",salle,AMBIENCE#GENERAL,negative,118,123
+816,g196673-d1116913-r280920040,0,"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer.",NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+817,g196673-d1116913-r280920040,1,correct.,NULL,RESTAURANT#GENERAL,neutral,0,0
+818,g196673-d1116913-r280920040,2,mais une impression d'inachevé.,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+819,g196673-d2375036-r163951874,0,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!",produits,FOOD#QUALITY,positive,60,68
+820,g196673-d2375036-r163951874,0,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!",service,SERVICE#GENERAL,negative,107,114
+821,g196673-d2375036-r163951874,0,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!",accueil,SERVICE#GENERAL,negative,120,127
+822,g196673-d2375036-r163951874,0,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!",saint Jacques,FOOD#QUALITY,positive,140,153
+823,g196673-d2375036-r163951874,0,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!",riz,FOOD#QUALITY,negative,166,169
+824,g196673-d2375036-r163951874,0,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!",NULL,RESTAURANT#GENERAL,negative,0,0
+825,g196673-d2375036-r163951874,0,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!",produits,FOOD#QUALITY,negative,60,68
+826,g196673-d3328382-r281089862,0,"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite.",cabanon de plage,RESTAURANT#GENERAL,positive,40,56
+827,g196673-d3328382-r281089862,0,"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite.",accueil,SERVICE#GENERAL,positive,95,102
+828,g196673-d3328382-r281089862,0,"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite.",plats,FOOD#QUALITY,positive,128,133
+829,g196673-d3328382-r281089862,0,"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite.",ambiance,AMBIENCE#GENERAL,positive,153,161
+830,g196673-d3328382-r281089862,1,On voit que l'équipe prend du plaisir à travailler dans ce lieu magique.,équipe,SERVICE#GENERAL,positive,14,20
+831,g196673-d3328382-r281089862,1,On voit que l'équipe prend du plaisir à travailler dans ce lieu magique.,lieu,LOCATION#GENERAL,positive,59,63
+832,g196673-d3328382-r281089862,2,Ce sera notre incontournable à Cassis!,NULL,RESTAURANT#GENERAL,positive,0,0
+833,g196673-d4476622-r283694730,0,Très bonne table dans une ruelle derrière le port donc sans avoir le défilé des touristes qui regardent votre assiette.,NULL,FOOD#QUALITY,positive,0,0
+834,g196673-d4476622-r283694730,0,Très bonne table dans une ruelle derrière le port donc sans avoir le défilé des touristes qui regardent votre assiette.,table,LOCATION#GENERAL,positive,11,16
+835,g196673-d4476622-r283694730,1,"On trouve dans ce restaurant une cuisine provençale parfumée, présentée très joliment et en quantité généreuse.",cuisine provençale,FOOD#QUALITY,positive,33,51
+836,g196673-d4476622-r283694730,1,"On trouve dans ce restaurant une cuisine provençale parfumée, présentée très joliment et en quantité généreuse.",cuisine provençale,FOOD#STYLE_OPTIONS,positive,33,51
+837,g196673-d4476622-r283694730,2,Le service est très correct Nous avons passé un très bon moment et nous vous recommandons l'endroit.,service,SERVICE#GENERAL,positive,3,10
+838,g196673-d4476622-r283694730,2,Le service est très correct Nous avons passé un très bon moment et nous vous recommandons l'endroit.,endroit,RESTAURANT#GENERAL,positive,92,99
+839,g196673-d7177523-r272503336,1,On nous a calé dans un coin du restaurant que nous avons fini par quitter après 20 minutes sans que personne ne soit venu nous apporter ne serait-ce qu'une carafe d'eau.,NULL,SERVICE#GENERAL,negative,0,0
+840,g219217-d1337718-r286688555,0,"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation.",produits,FOOD#QUALITY,negative,76,84
+841,g219217-d1337718-r286688555,0,"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation.",salade d'accueil,FOOD#STYLE_OPTIONS,negative,118,134
+842,g219217-d1337718-r286688555,0,"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation.",plat principal,FOOD#STYLE_OPTIONS,negative,159,173
+843,g219217-d1337718-r286688555,0,"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation.",dessert,FOOD#STYLE_OPTIONS,negative,180,187
+844,g219217-d1337718-r286688555,1,"De plus, l'accueil de la part du patron est froid contrairement aux serveurs très gentils.",accueil,SERVICE#GENERAL,negative,11,18
+845,g219217-d1337718-r286688555,1,"De plus, l'accueil de la part du patron est froid contrairement aux serveurs très gentils.",serveurs,SERVICE#GENERAL,positive,68,76
+846,g219217-d1337718-r286688555,2,La vaisselle est démodée.,NULL,RESTAURANT#MISCELLANEOUS,negative,0,0
+847,g219217-d2009926-r280673698,1,"Les serveuses étaient plutôts agréables mais pas une cacahuète ou une olive à l'heure de l'apéritif malheureusement, pas d'assiette apéritive non plus.",serveuses,SERVICE#GENERAL,positive,4,13
+848,g219217-d2009926-r280673698,1,"Les serveuses étaient plutôts agréables mais pas une cacahuète ou une olive à l'heure de l'apéritif malheureusement, pas d'assiette apéritive non plus.",NULL,FOOD#STYLE_OPTIONS,negative,0,0
+849,g219217-d2009926-r280673698,2,Incompréhensible pour un bar restaurant...,bar restaurant,RESTAURANT#GENERAL,negative,25,39
+850,g219217-d2032842-r108504415,0,Comment peut-on appeler ça un restaurant ?,restaurant,RESTAURANT#GENERAL,negative,30,40
+851,g219217-d2032842-r108504415,1,"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment.",accueil,SERVICE#GENERAL,negative,3,10
+852,g219217-d2032842-r108504415,1,"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment.",service,SERVICE#GENERAL,negative,17,24
+853,g219217-d2032842-r108504415,1,"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment.",cuisine,FOOD#QUALITY,negative,42,49
+854,g219217-d2032842-r108504415,1,"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment.",buffet,FOOD#QUALITY,negative,107,113
+855,g219217-d2032842-r108504415,2,"La prochaine fois que nous serons de passage à Albertville, nous essaierons un autre restaurant, quelqu'un peut-il nous en conseiller un ???",NULL,RESTAURANT#GENERAL,negative,0,0
+856,g219217-d3346923-r275947790,0,Dans cet établissement je me suis sentie chez moi ayant eu un restaurant du même genre.,établissement,AMBIENCE#GENERAL,positive,9,22
+857,g219217-d3346923-r275947790,1,"Une cuisine savoureuse faite avec amour, j'y retourne dés que je peux pour moi c'est un vrai restaurant",cuisine,FOOD#QUALITY,positive,4,11
+858,g219217-d3346923-r275947790,1,"Une cuisine savoureuse faite avec amour, j'y retourne dés que je peux pour moi c'est un vrai restaurant",restaurant,RESTAURANT#GENERAL,positive,93,103
+859,g219217-d4229656-r261911356,2,nous avons tous très bien mangés.,NULL,FOOD#QUALITY,positive,0,0
+860,g219217-d4229656-r261911356,3,"La carte est très large, de bons plats chauds et bons !",carte,FOOD#STYLE_OPTIONS,positive,3,8
+861,g219217-d4229656-r261911356,3,"La carte est très large, de bons plats chauds et bons !",plats,FOOD#QUALITY,positive,33,38
+862,g219217-d4229656-r261911356,5,"aucun geste commercial au paiement, rien d'offert ni de proposé...??!",NULL,SERVICE#GENERAL,negative,0,0
+863,g219217-d4229656-r261911356,6,"en plus, une des personnes à commander un tartare, elle a été servi 10 minutes après tout le monde.. c'est un plat froid pourtant.",NULL,SERVICE#GENERAL,negative,0,0
+864,g219217-d4229656-r261911356,7,c'est bien dommage !,NULL,RESTAURANT#GENERAL,negative,0,0
+865,g3160517-d4878664-r274705721,3,"Trois cocottes de moules marinières arrivent à table, à l'ouverture, les moules de l'une d'entre elles sont recouvertes de tomates et pas les autres.",moules,FOOD#STYLE_OPTIONS,neutral,73,79
+866,g3160517-d4878664-r274705721,6,Certaines moules sont trop cuites d'autres pas assez.,moules,FOOD#QUALITY,negative,10,16
+867,g3160517-d4878664-r274705721,7,Les frites ont goût d'huile.,frites,FOOD#QUALITY,negative,4,10
+868,g3160517-d4878664-r274705721,8,"Au milieu de ma cocotte de moule marinière j'ai la désagréable surprise de trouver un demi citron, peau comprise, déchiqueté.",cocotte de moule marinière,FOOD#STYLE_OPTIONS,negative,16,42
+869,g3160517-d4878664-r274705721,14,La note qui nous est présentée est défalquée d'une cocotte alors que plus personne ne souhaite manger ces moules douteuses.,moules,FOOD#QUALITY,negative,106,112
+870,g3160517-d4878664-r274705721,14,La note qui nous est présentée est défalquée d'une cocotte alors que plus personne ne souhaite manger ces moules douteuses.,NULL,RESTAURANT#PRICES,neutral,0,0
+871,g3160517-d4878664-r274705721,15,Nous nous ferons ensuite de nouveau insulter par le responsable avant qu'il accepte d'encaisser nos boissons et de nous laisser partir.,responsable,SERVICE#GENERAL,negative,52,63
+872,g3160517-d4878664-r274705721,16,Nous ne nous attendions pas à de la grande cuisine dans cet endroit très touristique mais nous aurions néanmoins apprécié de pouvoir déjeuner sans mettre notre santé en danger et sans nous faire manquer de respect par dessus le marché!,NULL,FOOD#QUALITY,negative,0,0
+873,g3160517-d4878664-r274705721,16,Nous ne nous attendions pas à de la grande cuisine dans cet endroit très touristique mais nous aurions néanmoins apprécié de pouvoir déjeuner sans mettre notre santé en danger et sans nous faire manquer de respect par dessus le marché!,NULL,SERVICE#GENERAL,negative,0,0
+874,g3160517-d4878664-r274705721,16,Nous ne nous attendions pas à de la grande cuisine dans cet endroit très touristique mais nous aurions néanmoins apprécié de pouvoir déjeuner sans mettre notre santé en danger et sans nous faire manquer de respect par dessus le marché!,endroit,RESTAURANT#GENERAL,negative,60,67
+875,g580171-d1332791-r285855067,0,Premiere fois dans ce restaurant dont on nous disait pourtant du bien.,restaurant,RESTAURANT#GENERAL,negative,22,32
+876,g580171-d1332791-r285855067,1,"Les plats proposés sont originaux, les saveurs intéréssantes mais le rapport qualité prix n'est pas au rendez vous.",plats,FOOD#STYLE_OPTIONS,positive,4,9
+877,g580171-d1332791-r285855067,1,"Les plats proposés sont originaux, les saveurs intéréssantes mais le rapport qualité prix n'est pas au rendez vous.",NULL,FOOD#PRICES,negative,0,0
+878,g580171-d1332791-r285855067,1,"Les plats proposés sont originaux, les saveurs intéréssantes mais le rapport qualité prix n'est pas au rendez vous.",NULL,FOOD#QUALITY,negative,0,0
+879,g580171-d1332791-r285855067,2,"18,50 € un risotto, où j'ai cherché du saumon fumé pourtant annoncé, que je n'ai hélas pas trouvé, c'est bien trop cher aussi bon soit il.",risotto,FOOD#STYLE_OPTIONS,negative,11,18
+880,g580171-d1332791-r285855067,2,"18,50 € un risotto, où j'ai cherché du saumon fumé pourtant annoncé, que je n'ai hélas pas trouvé, c'est bien trop cher aussi bon soit il.",risotto,FOOD#PRICES,negative,11,18
+881,g580171-d1332791-r285855067,3,On a payé le cadre coloré et le port touristique de la Cotinière.,cadre,AMBIENCE#GENERAL,neutral,13,18
+882,g580171-d1332791-r285855067,3,On a payé le cadre coloré et le port touristique de la Cotinière.,port touristique,LOCATION#GENERAL,neutral,32,48
+883,g580171-d1332791-r285855067,4,Si il n'y avait que cela ça aurait pu aller mais le service a été catastrophique.,service,SERVICE#GENERAL,negative,52,59
+884,g580171-d1332791-r285855067,5,La jeune demoiselle blonde qui nous a servi n'est absolument pas du metier.,NULL,SERVICE#GENERAL,negative,0,0
+885,g580171-d1332791-r285855067,6,"La prise de commande par le patron est venue bien longtemps après la fin de l'apéritif, et le pire a été le service du vin quand nous avions presque fini notre plat.",patron,SERVICE#GENERAL,negative,28,34
+886,g580171-d1332791-r285855067,6,"La prise de commande par le patron est venue bien longtemps après la fin de l'apéritif, et le pire a été le service du vin quand nous avions presque fini notre plat.",service du vin,SERVICE#GENERAL,negative,108,122
+887,g580171-d1332791-r285855067,7,Intolérable.,NULL,RESTAURANT#GENERAL,negative,0,0
+888,g580171-d1332791-r285855067,8,Malgré une cuisine gouteuse nous n'y retournerons pas.,cuisine,FOOD#QUALITY,positive,11,18
+889,g580171-d1332791-r285855067,8,Malgré une cuisine gouteuse nous n'y retournerons pas.,NULL,RESTAURANT#GENERAL,negative,0,0
+890,g580171-d3845482-r257213400,0,Restaurant très sympa.,Restaurant,RESTAURANT#GENERAL,positive,0,10
+891,g580171-d3845482-r257213400,1,Petite salle ambiance plage Oléronaise.,ambiance,AMBIENCE#GENERAL,neutral,13,21
+892,g580171-d3845482-r257213400,2,Deco et tables raffinées (nappes et serviettes en tissus...).,Deco,AMBIENCE#GENERAL,positive,0,4
+893,g580171-d3845482-r257213400,3,Personnel très souriant et chaleureux.,Personnel,SERVICE#GENERAL,positive,0,9
+894,g580171-d3845482-r257213400,4,Menus un peu chers mais très bons.,Menus,FOOD#PRICES,neutral,0,5
+895,g580171-d3845482-r257213400,4,Menus un peu chers mais très bons.,Menus,FOOD#QUALITY,positive,0,5
+896,g580171-d3845482-r257213400,5,Cela dit pour du tout fait maison avec des produits frais de très bonne qualité cela reste très intéressant.,NULL,FOOD#PRICES,positive,0,0
+897,g580171-d3845482-r257213400,5,Cela dit pour du tout fait maison avec des produits frais de très bonne qualité cela reste très intéressant.,produits,FOOD#QUALITY,positive,43,51
+898,g580171-d3845482-r257213400,6,Plats copieux et bien présentés.,Plats,FOOD#STYLE_OPTIONS,positive,0,5
+899,g580171-d3845482-r257213400,7,"Très bons, surtout les desserts (excellents).",desserts,FOOD#QUALITY,positive,23,31
+900,g580171-d3845482-r257213400,7,"Très bons, surtout les desserts (excellents).",NULL,FOOD#QUALITY,positive,0,0
+901,g580171-d3845482-r257213400,8,Coctails très bons mais un peu cher pour la quantité (5/8€),Coctails,DRINKS#QUALITY,positive,0,8
+902,g580171-d3845482-r257213400,8,Coctails très bons mais un peu cher pour la quantité (5/8€),Coctails,DRINKS#PRICES,neutral,0,8
+903,g580171-d3845482-r257213400,8,Coctails très bons mais un peu cher pour la quantité (5/8€),Coctails,DRINKS#STYLE_OPTIONS,negative,0,8
+904,g580171-d3845482-r257213400,9,Restaurant ouvert hors saison.,Restaurant,RESTAURANT#MISCELLANEOUS,neutral,0,10
+905,g580173-d3501761-r272950033,0,"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique.",Terrasse,AMBIENCE#GENERAL,positive,0,8
+906,g580173-d3501761-r272950033,0,"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique.",assiettes,FOOD#STYLE_OPTIONS,positive,53,62
+907,g580173-d3501761-r272950033,0,"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique.",poissons,FOOD#QUALITY,positive,64,72
+908,g580173-d3501761-r272950033,0,"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique.",décoration,AMBIENCE#GENERAL,positive,94,104
+909,g580173-d3501761-r272950033,0,"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique.",service,SERVICE#GENERAL,positive,108,115
+910,g580173-d3501761-r272950033,1,N'hésitez pas.,NULL,RESTAURANT#GENERAL,positive,0,0
+911,g656502-d3171612-r281589263,0,"L'adresse est trompeuse, le restaurant n'est pas à Castelnaudary mais dans un petit village juste après.",restaurant,LOCATION#GENERAL,neutral,28,38
+912,g656502-d3171612-r281589263,1,"Appelez la patronne pour savoir, elle est adorable.",patronne,SERVICE#GENERAL,positive,11,19
+913,g656502-d3171612-r281589263,2,"Et faites le détour, pour un cassoulet top et généreux.",cassoulet,FOOD#QUALITY,positive,29,38
+914,g656502-d3171612-r281589263,2,"Et faites le détour, pour un cassoulet top et généreux.",cassoulet,FOOD#STYLE_OPTIONS,positive,29,38
+915,g656502-d3171612-r281589263,3,Avec un petit verre de Minervois.,verre,DRINKS#STYLE_OPTIONS,positive,14,19
+916,g656502-d3171612-r281589263,4,ET un petit fois gras juste avant.,fois gras,FOOD#STYLE_OPTIONS,positive,12,21
+917,g656502-d3171612-r281589263,7,"C'est une halte agréable, pour nous qui revenions de Bordeaux et rentrions dans le Sud Est (la patronne reconnaitra sans doute !).",NULL,RESTAURANT#GENERAL,positive,0,0
+918,g656502-d3171612-r281589263,8,Nous avons passé une bonne fin de soirée ... ou de nuit.,NULL,RESTAURANT#GENERAL,positive,0,0
+919,g656502-d3431912-r272503140,0,"accueil sympathique, cuisine de très bonne qualité mais parfois la main est un peu lourde sur le sel, petit problème rectifié depuis.",accueil,SERVICE#GENERAL,positive,0,7
+920,g656502-d3431912-r272503140,0,"accueil sympathique, cuisine de très bonne qualité mais parfois la main est un peu lourde sur le sel, petit problème rectifié depuis.",cuisine,FOOD#QUALITY,positive,21,28
+921,g656502-d3431912-r272503140,1,Nous recommandons!,NULL,RESTAURANT#GENERAL,positive,0,0
+922,g656502-d4431469-r222430915,0,"Un cassoulet franchement ""infect"", qui fait honte au nom porté par le restaurant et pour un soi-disant ""restaurant traditionnel servant une cuisine de Chef faite à partir de produit brut"" (sic) ... qualifié de ""Cassoulet fait Maison"" !.",cassoulet,FOOD#QUALITY,negative,3,12
+923,g656502-d4431469-r222430915,0,"Un cassoulet franchement ""infect"", qui fait honte au nom porté par le restaurant et pour un soi-disant ""restaurant traditionnel servant une cuisine de Chef faite à partir de produit brut"" (sic) ... qualifié de ""Cassoulet fait Maison"" !.",cuisine,FOOD#QUALITY,negative,140,147
+924,g656502-d4431469-r222430915,1,"Patron venu nous voir en début de service, nous étions les premiers clients ayant eu le courage de s'installer à sa terrasse, alors que les tables des terrasses des restaurants voisins étaient occupées...Premiers arrivés, avant derniers à pouvoir obtenir l'addition, après appel.",NULL,SERVICE#GENERAL,negative,0,0
+925,g656502-d4431469-r222430915,2,A éviter tant pour la cuisine que pour le service.,cuisine,FOOD#QUALITY,negative,22,29
+926,g656502-d4431469-r222430915,2,A éviter tant pour la cuisine que pour le service.,service,SERVICE#GENERAL,negative,42,49
+927,g656502-d4431469-r222430915,3,Lamentable.,NULL,RESTAURANT#GENERAL,negative,0,0
+928,g656502-d4431469-r222430915,4,Une belle erreur de choix de notre part.,NULL,RESTAURANT#GENERAL,negative,0,0
+929,g656502-d4431469-r222430915,5,Ne faites pas comme nous !,NULL,RESTAURANT#GENERAL,negative,0,0
+930,g656502-d4431469-r237538947,0,Repas totalement décevant et cher!,Repas,FOOD#QUALITY,negative,0,5
+931,g656502-d4431469-r237538947,0,Repas totalement décevant et cher!,Repas,FOOD#PRICES,negative,0,5
+932,g656502-d4431469-r237538947,1,"Pour deux entrées, deux plats et deux desserts à la carte avec une bouteille de vin nous avons trouvé le repas assez cher pour Castelnaudary (92€).",repas,FOOD#PRICES,negative,105,110
+933,g656502-d4431469-r237538947,2,En plus tout provenait de conserves ou il s'agissait de plat surgelés...,plat,FOOD#QUALITY,negative,56,60
+934,g656502-d4431469-r237538947,2,En plus tout provenait de conserves ou il s'agissait de plat surgelés...,NULL,FOOD#QUALITY,negative,0,0
+935,g656502-d4431469-r237538947,3,"Je déconseille totalement ce ""restaurant"".",restaurant,RESTAURANT#GENERAL,negative,30,40
+936,g656502-d7337314-r271147108,0,Bien situé.,NULL,LOCATION#GENERAL,positive,0,0
+937,g656502-d7337314-r271147108,1,Service gentil.,Service,SERVICE#GENERAL,positive,0,7
+938,g656502-d7337314-r271147108,2,Pizza honnêtes mais éviter le tiramisu.,Pizza,FOOD#QUALITY,neutral,0,5
+939,g656502-d7337314-r271147108,2,Pizza honnêtes mais éviter le tiramisu.,tiramisu,FOOD#QUALITY,negative,30,38
+940,g656502-d7337314-r271147108,3,Attention la bière est italienne...,bière,DRINKS#STYLE_OPTIONS,negative,13,18
+941,g660465-d2259425-r282891879,0,Un lieu à connaitre !.,lieu,RESTAURANT#GENERAL,positive,3,7
+942,g660465-d2259425-r282891879,1,Cuisine excellente avec de la recherche.,Cuisine,FOOD#QUALITY,positive,0,7
+943,g660465-d2259425-r282891879,1,Cuisine excellente avec de la recherche.,Cuisine,FOOD#STYLE_OPTIONS,positive,0,7
+944,g660465-d2259425-r282891879,2,Bravo pour le chef et la patissière ; nous reviendrons pour la langue de Bœuf !,NULL,FOOD#QUALITY,positive,0,0
+945,g660465-d2259425-r282891879,2,Bravo pour le chef et la patissière ; nous reviendrons pour la langue de Bœuf !,langue de Bœuf,FOOD#QUALITY,positive,63,77
+946,g660465-d3531828-r267383919,0,Très bonne cuisine traditionnelle dans un endroit typique.,cuisine traditionnelle,FOOD#QUALITY,positive,11,33
+947,g660465-d3531828-r267383919,0,Très bonne cuisine traditionnelle dans un endroit typique.,NULL,AMBIENCE#GENERAL,neutral,0,0
+948,g660465-d3531828-r267383919,1,Mais c'est cher .,NULL,RESTAURANT#PRICES,negative,0,0
+949,g660465-d3531828-r267383919,3,Dommage pour ce petit restaurant sympa.,restaurant,RESTAURANT#GENERAL,positive,22,32
+950,g660465-d5932339-r281681321,0,Le repas est juste indécent!,repas,FOOD#QUALITY,negative,3,8
+951,g660465-d5932339-r281681321,1,Rien de bon même la pomme de terre n'était pas cuite!,pomme de terre,FOOD#QUALITY,negative,20,34
+952,g660465-d5932339-r281681321,2,"Ne surtout pas y aller pour bien manger, par contre on se laisse bien embarquer dans l'ambiance de ces années là.",ambiance,AMBIENCE#GENERAL,positive,87,95
+953,g660465-d5932339-r281681321,2,"Ne surtout pas y aller pour bien manger, par contre on se laisse bien embarquer dans l'ambiance de ces années là.",NULL,FOOD#QUALITY,negative,0,0
