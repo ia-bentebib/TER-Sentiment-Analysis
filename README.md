@@ -25,29 +25,51 @@
 ## Install
 
 ```sh
-
+git clone https://github.com/Torilen/transformers-camembert.git
+cd transformers-camembert
+pip install .
+pip install pytorch_transformers
+pip install seqeval
+cd ../
+git clone https://github.com/Torilen/TER-LCF-ATEPC-FR.git
+cd TER-LCF-ATEPC-FR/
 ```
 
 ## Usage
 
 ```sh
-
+--dataset
+--output_dir
+--SRD
+--learning_rate The initial learning rate for Adam
+--use_bert_spc
+--local_context_focus
+--num_train_epochs Total number of training epochs to perform
+--train_batch_size Total batch size for training
+--dropout
+--max_seq_length
+--eval_batch_size Total batch size for eval
+--eval_steps Evaluate per steps
+--gradient_accumulation_steps Number of updates steps to accumulate before performing a backward/update pas
 ```
 
 ## Run tests
 
 ```sh
-
+python train.py
 ```
+
+
+
+Otherwise, you can use this Google Colab Notebook : ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1bs6N0NWuKF4qmCLc0LQdBHKBEKc_3m_K?usp=sharing)
 
 ## Author
 
-👤 **Aniss BENTEBIB , Amine BOULAHMEL, Harry JANDU**
+👤 **Aniss BENTEBIB , Amine BOULAHMEL
 
 * GitHub: [@Torilen](https://github.com/Torilen)
 * LinkedIn: [@aniss-bentebib-a449a8155](https://linkedin.com/in/aniss-bentebib-a449a8155)
 * LinkedIn: [@amine-boulahmel-88743a113](https://linkedin.com/in/amine-boulahmel-88743a113)
-* LinkedIn: [@harry-jandu](https://linkedin.com/in/harry-jandu)
 
 ## 🤝 Contributing
 
