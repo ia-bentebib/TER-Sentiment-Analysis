@@ -61,7 +61,7 @@ python train.py
 
 
 
-Otherwise, you can use this Google Colab Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1bs6N0NWuKF4qmCLc0LQdBHKBEKc_3m_K?usp=sharing]
+Otherwise, you can use this Google Colab Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bs6N0NWuKF4qmCLc0LQdBHKBEKc_3m_K?usp=sharing)
 
 👤 **Aniss BENTEBIB , Amine BOULAHMEL
 
